@@ -1,0 +1,1201 @@
+Date,City,Area,Vehicle_Type,Vehicle_Count,Accidents,Traffic_Violations,Avg_Speed_kmph,Congestion_Level
+2025-01-01,Pune,Hinjewadi,Auto,4396,4,44,41,Low
+2025-01-02,Thane,Manpada,Truck,6708,6,228,31,Low
+2025-01-03,Mumbai,Lower Parel,Car,12940,3,98,39,High
+2025-01-04,Thane,Kasarvadavali,Bus,5062,1,245,44,Low
+2025-01-05,Nashik,College Road,Bus,13794,3,120,44,High
+2025-01-06,Pune,Shivaji Nagar,Car,8686,5,63,24,Medium
+2025-01-07,Nagpur,Trimurti Nagar,Car,14218,3,87,45,High
+2025-01-08,Nashik,Mumbai Naka,Bus,11530,2,195,56,High
+2025-01-09,Nagpur,Dharampeth,Bus,8017,0,242,38,Medium
+2025-01-10,Nagpur,Pratap Nagar,Bike,14729,0,44,47,High
+2025-01-11,Thane,Ghodbunder,Auto,6570,1,286,48,Low
+2025-01-12,Nashik,Gangapur Road,Car,8376,2,278,47,Medium
+2025-01-13,Mumbai,Dadar,Truck,6225,3,46,47,Low
+2025-01-14,Thane,Kasarvadavali,Auto,10945,4,145,46,Medium
+2025-01-15,Pune,Hinjewadi,Auto,13806,1,42,32,High
+2025-01-16,Nashik,Indira Nagar,Bus,14912,2,65,39,High
+2025-01-17,Pune,Viman Nagar,Truck,5645,0,277,47,Low
+2025-01-18,Mumbai,Bandra,Auto,8203,2,43,48,Medium
+2025-01-19,Nagpur,Dharampeth,Bike,4585,2,111,48,Low
+2025-01-20,Pune,Kothrud,Bike,5543,5,273,38,Low
+2025-01-21,Nashik,Mumbai Naka,Auto,10370,2,229,45,Medium
+2025-01-22,Nagpur,Trimurti Nagar,Car,11464,0,105,49,High
+2025-01-23,Nagpur,Sadar,Bike,12056,0,248,24,High
+2025-01-24,Thane,Ghodbunder,Bike,11915,6,139,53,High
+2025-01-25,Nashik,College Road,Truck,7370,1,83,60,Medium
+2025-01-26,Thane,Kasarvadavali,Car,10326,2,207,46,Medium
+2025-01-27,Mumbai,Lower Parel,Bus,6753,0,78,35,Low
+2025-01-28,Nashik,Mumbai Naka,Car,12422,0,245,44,High
+2025-01-29,Pune,Viman Nagar,Bus,9895,2,180,60,Medium
+2025-01-30,Pune,Shivaji Nagar,Auto,11935,2,262,33,High
+2025-01-31,Pune,Hinjewadi,Bike,14675,5,210,21,High
+2025-02-01,Thane,Majiwada,Truck,8519,4,139,31,Medium
+2025-02-02,Nagpur,Trimurti Nagar,Car,6794,8,84,22,Low
+2025-02-03,Thane,Majiwada,Auto,9473,6,291,50,Medium
+2025-02-04,Nagpur,Sitabuldi,Bike,14335,5,235,47,High
+2025-02-05,Nagpur,Dharampeth,Car,11171,7,282,60,High
+2025-02-06,Mumbai,Andheri,Car,5883,6,54,29,Low
+2025-02-07,Nagpur,Sadar,Auto,9046,4,60,45,Medium
+2025-02-08,Nashik,Mumbai Naka,Auto,9343,3,261,35,Medium
+2025-02-09,Pune,Hinjewadi,Bike,8946,5,133,26,Medium
+2025-02-10,Nagpur,Trimurti Nagar,Auto,4649,4,148,42,Low
+2025-02-11,Mumbai,Malad,Bike,13839,7,168,48,High
+2025-02-12,Nagpur,Pratap Nagar,Auto,12152,6,210,51,High
+2025-02-13,Thane,Manpada,Bus,7187,4,115,58,Medium
+2025-02-14,Thane,Kasarvadavali,Bus,10081,0,133,31,Medium
+2025-02-15,Thane,Ghodbunder,Bike,14611,3,107,49,High
+2025-02-16,Mumbai,Andheri,Car,11189,8,282,60,High
+2025-02-17,Nagpur,Dharampeth,Auto,5058,7,76,22,Low
+2025-02-18,Nashik,Indira Nagar,Auto,10231,0,111,22,Medium
+2025-02-19,Nagpur,Sitabuldi,Truck,8819,2,141,32,Medium
+2025-02-20,Mumbai,Malad,Bike,11597,0,43,26,High
+2025-02-21,Thane,Kasarvadavali,Auto,11927,2,155,39,High
+2025-02-22,Nagpur,Sadar,Bus,6926,6,58,40,Low
+2025-02-23,Thane,Majiwada,Car,10890,8,121,25,Medium
+2025-02-24,Thane,Manpada,Truck,9667,3,123,48,Medium
+2025-02-25,Nashik,Gangapur Road,Auto,7762,3,248,37,Medium
+2025-02-26,Mumbai,Malad,Bike,9908,6,286,25,Medium
+2025-02-27,Pune,Hinjewadi,Bike,14978,5,124,51,High
+2025-02-28,Mumbai,Dadar,Bus,7904,6,156,25,Medium
+2025-03-01,Nashik,Gangapur Road,Auto,13971,4,292,60,High
+2025-03-02,Pune,Viman Nagar,Bike,7655,1,120,35,Medium
+2025-03-03,Pune,Shivaji Nagar,Bike,4358,0,279,47,Low
+2025-03-04,Nagpur,Dharampeth,Car,11107,6,182,37,High
+2025-03-05,Nagpur,Sadar,Truck,10480,0,166,20,Medium
+2025-03-06,Nagpur,Sitabuldi,Car,11818,0,234,24,High
+2025-03-07,Nashik,Indira Nagar,Bus,9972,0,127,59,Medium
+2025-03-08,Thane,Kasarvadavali,Bike,7156,7,105,57,Medium
+2025-03-09,Mumbai,Malad,Bus,7283,7,244,54,Medium
+2025-03-10,Nagpur,Sadar,Bike,10080,4,253,24,Medium
+2025-03-11,Pune,Hinjewadi,Bus,11456,8,247,50,High
+2025-03-12,Nashik,Indira Nagar,Bus,13850,7,158,31,High
+2025-03-13,Nagpur,Dharampeth,Car,12565,8,201,50,High
+2025-03-14,Thane,Kasarvadavali,Auto,14558,5,216,49,High
+2025-03-15,Pune,Shivaji Nagar,Truck,5026,0,105,41,Low
+2025-03-16,Thane,Wagle Estate,Bike,9965,7,51,36,Medium
+2025-03-17,Nagpur,Dharampeth,Auto,10311,5,271,60,Medium
+2025-03-18,Pune,Kothrud,Car,14149,6,219,33,High
+2025-03-19,Nashik,Panchavati,Bike,13397,8,94,40,High
+2025-03-20,Mumbai,Andheri,Auto,6875,5,233,60,Low
+2025-03-21,Nagpur,Sitabuldi,Bus,11377,8,293,32,High
+2025-03-22,Mumbai,Bandra,Truck,8618,0,252,46,Medium
+2025-03-23,Nashik,Gangapur Road,Car,11364,6,87,31,High
+2025-03-24,Pune,Kothrud,Bike,8122,1,282,46,Medium
+2025-03-25,Pune,Viman Nagar,Car,14623,1,221,53,High
+2025-03-26,Thane,Ghodbunder,Bike,6936,5,127,48,Low
+2025-03-27,Thane,Ghodbunder,Bus,9771,7,209,38,Medium
+2025-03-28,Nagpur,Dharampeth,Auto,13509,3,185,36,High
+2025-03-29,Thane,Wagle Estate,Truck,6791,4,158,20,Low
+2025-03-30,Nashik,Gangapur Road,Car,11631,8,218,46,High
+2025-03-31,Nagpur,Sadar,Bus,6126,3,125,56,Low
+2025-04-01,Nashik,Panchavati,Bus,13932,7,271,31,High
+2025-04-02,Nagpur,Pratap Nagar,Car,5339,6,223,54,Low
+2025-04-03,Nagpur,Sitabuldi,Truck,11327,8,275,40,High
+2025-04-04,Nashik,College Road,Car,11721,4,134,47,High
+2025-04-05,Mumbai,Andheri,Truck,9125,1,197,40,Medium
+2025-04-06,Thane,Manpada,Car,7371,6,271,54,Medium
+2025-04-07,Thane,Manpada,Auto,4778,8,201,43,Low
+2025-04-08,Pune,Wakad,Bike,11874,5,245,22,High
+2025-04-09,Pune,Wakad,Car,7468,2,67,40,Medium
+2025-04-10,Nashik,Panchavati,Truck,10389,5,113,25,Medium
+2025-04-11,Nashik,College Road,Bus,4943,7,251,42,Low
+2025-04-12,Pune,Shivaji Nagar,Car,7146,5,245,60,Medium
+2025-04-13,Pune,Shivaji Nagar,Truck,5769,1,40,48,Low
+2025-04-14,Pune,Kothrud,Bike,6044,6,52,35,Low
+2025-04-15,Thane,Wagle Estate,Truck,14410,6,227,24,High
+2025-04-16,Nashik,Gangapur Road,Car,11850,3,278,35,High
+2025-04-17,Thane,Wagle Estate,Car,6902,6,258,43,Low
+2025-04-18,Pune,Wakad,Bike,7139,2,128,27,Medium
+2025-04-19,Pune,Viman Nagar,Bike,14069,7,217,51,High
+2025-04-20,Nagpur,Trimurti Nagar,Bus,7696,3,261,28,Medium
+2025-04-21,Thane,Kasarvadavali,Bus,6845,7,52,46,Low
+2025-04-22,Mumbai,Malad,Car,13825,7,101,39,High
+2025-04-23,Pune,Wakad,Bus,7321,0,46,22,Medium
+2025-04-24,Nashik,College Road,Truck,13972,5,157,57,High
+2025-04-25,Nagpur,Sitabuldi,Bike,10059,0,288,49,Medium
+2025-04-26,Thane,Ghodbunder,Auto,4795,4,217,55,Low
+2025-04-27,Nashik,Mumbai Naka,Bike,12712,7,89,39,High
+2025-04-28,Nashik,College Road,Bus,12963,8,79,46,High
+2025-04-29,Thane,Manpada,Auto,11825,2,154,58,High
+2025-04-30,Nagpur,Sadar,Car,12553,5,247,42,High
+2025-05-01,Pune,Hinjewadi,Truck,4517,3,256,58,Low
+2025-05-02,Nashik,Indira Nagar,Bike,6368,8,280,35,Low
+2025-05-03,Thane,Manpada,Bike,8469,1,154,44,Medium
+2025-05-04,Nagpur,Sitabuldi,Truck,13344,8,110,31,High
+2025-05-05,Pune,Kothrud,Bike,7167,2,208,57,Medium
+2025-05-06,Nashik,Gangapur Road,Car,14424,8,68,30,High
+2025-05-07,Thane,Kasarvadavali,Bus,5041,7,85,52,Low
+2025-05-08,Nashik,Panchavati,Car,4829,0,144,56,Low
+2025-05-09,Nagpur,Sitabuldi,Auto,5180,0,106,22,Low
+2025-05-10,Thane,Kasarvadavali,Truck,7276,8,223,30,Medium
+2025-05-11,Mumbai,Lower Parel,Truck,5711,3,134,53,Low
+2025-05-12,Thane,Ghodbunder,Bike,10048,2,281,45,Medium
+2025-05-13,Nagpur,Pratap Nagar,Bus,11656,5,272,52,High
+2025-05-14,Thane,Wagle Estate,Truck,5599,0,262,49,Low
+2025-05-15,Pune,Hinjewadi,Truck,12382,0,171,58,High
+2025-05-16,Mumbai,Andheri,Bus,10709,3,77,52,Medium
+2025-05-17,Mumbai,Dadar,Auto,4596,7,60,44,Low
+2025-05-18,Nashik,Gangapur Road,Bus,12958,7,108,59,High
+2025-05-19,Nashik,Gangapur Road,Auto,9629,1,61,52,Medium
+2025-05-20,Pune,Shivaji Nagar,Bus,11341,8,169,39,High
+2025-05-21,Nagpur,Sadar,Auto,13738,2,105,47,High
+2025-05-22,Nashik,College Road,Auto,14637,8,215,60,High
+2025-05-23,Nashik,Indira Nagar,Car,8348,7,295,40,Medium
+2025-05-24,Nashik,Mumbai Naka,Truck,10178,3,267,44,Medium
+2025-05-25,Mumbai,Andheri,Truck,14672,0,235,42,High
+2025-05-26,Thane,Manpada,Auto,13647,5,228,38,High
+2025-05-27,Thane,Manpada,Bus,13515,1,231,35,High
+2025-05-28,Mumbai,Dadar,Auto,9719,8,152,40,Medium
+2025-05-29,Nashik,Indira Nagar,Bike,11789,3,163,22,High
+2025-05-30,Pune,Wakad,Bus,5528,4,258,33,Low
+2025-05-31,Nashik,College Road,Bike,6395,1,44,58,Low
+2025-06-01,Pune,Kothrud,Car,6419,8,92,59,Low
+2025-06-02,Pune,Wakad,Auto,13221,0,94,31,High
+2025-06-03,Nagpur,Pratap Nagar,Car,4908,3,243,22,Low
+2025-06-04,Nashik,Panchavati,Bike,4392,3,43,31,Low
+2025-06-05,Mumbai,Bandra,Car,5848,5,217,30,Low
+2025-06-06,Pune,Viman Nagar,Car,13940,6,239,25,High
+2025-06-07,Nashik,Mumbai Naka,Bike,14158,6,80,26,High
+2025-06-08,Pune,Shivaji Nagar,Bike,8480,3,145,39,Medium
+2025-06-09,Mumbai,Bandra,Truck,4669,0,293,37,Low
+2025-06-10,Pune,Shivaji Nagar,Truck,14415,6,286,45,High
+2025-06-11,Nagpur,Pratap Nagar,Truck,11177,7,183,43,High
+2025-06-12,Pune,Viman Nagar,Car,9973,1,166,20,Medium
+2025-06-13,Mumbai,Andheri,Truck,11207,7,260,51,High
+2025-06-14,Nagpur,Sadar,Car,12738,5,138,60,High
+2025-06-15,Nashik,Indira Nagar,Auto,5730,0,285,56,Low
+2025-06-16,Thane,Manpada,Truck,10086,8,235,29,Medium
+2025-06-17,Mumbai,Dadar,Auto,7822,7,122,55,Medium
+2025-06-18,Pune,Viman Nagar,Bike,11701,5,221,31,High
+2025-06-19,Nagpur,Trimurti Nagar,Car,7446,5,238,20,Medium
+2025-06-20,Thane,Wagle Estate,Auto,4680,6,194,58,Low
+2025-06-21,Thane,Ghodbunder,Bike,13369,8,121,43,High
+2025-06-22,Thane,Kasarvadavali,Car,10410,7,200,32,Medium
+2025-06-23,Nashik,Gangapur Road,Auto,5492,4,151,50,Low
+2025-06-24,Thane,Wagle Estate,Bike,4558,6,138,36,Low
+2025-06-25,Mumbai,Malad,Bike,6232,4,56,43,Low
+2025-06-26,Nashik,College Road,Auto,8216,6,153,23,Medium
+2025-06-27,Mumbai,Bandra,Car,6760,0,194,43,Low
+2025-06-28,Nashik,College Road,Bus,6790,8,92,60,Low
+2025-06-29,Nagpur,Dharampeth,Bike,4168,3,184,32,Low
+2025-06-30,Nashik,Panchavati,Car,5497,3,281,32,Low
+2025-07-01,Mumbai,Andheri,Auto,12998,1,202,44,High
+2025-07-02,Mumbai,Andheri,Car,12819,4,226,51,High
+2025-07-03,Nashik,College Road,Bus,10964,8,69,40,Medium
+2025-07-04,Nashik,Gangapur Road,Bus,6909,3,119,53,Low
+2025-07-05,Nagpur,Trimurti Nagar,Bike,13818,4,198,44,High
+2025-07-06,Nashik,College Road,Car,5005,4,240,57,Low
+2025-07-07,Mumbai,Bandra,Truck,11945,1,165,37,High
+2025-07-08,Nagpur,Sitabuldi,Bike,11810,7,155,50,High
+2025-07-09,Thane,Manpada,Bike,5837,1,50,31,Low
+2025-07-10,Thane,Majiwada,Bus,14177,5,240,56,High
+2025-07-11,Nagpur,Trimurti Nagar,Auto,14211,1,174,50,High
+2025-07-12,Nagpur,Dharampeth,Bike,4206,4,297,60,Low
+2025-07-13,Nashik,Gangapur Road,Bike,12618,8,265,52,High
+2025-07-14,Mumbai,Andheri,Bike,13616,3,55,29,High
+2025-07-15,Nashik,College Road,Auto,5460,7,276,37,Low
+2025-07-16,Nagpur,Dharampeth,Bike,4943,5,146,50,Low
+2025-07-17,Mumbai,Lower Parel,Bus,10313,4,54,35,Medium
+2025-07-18,Thane,Manpada,Bus,8407,5,258,56,Medium
+2025-07-19,Pune,Shivaji Nagar,Bike,6368,5,74,45,Low
+2025-07-20,Pune,Hinjewadi,Bus,8759,7,130,25,Medium
+2025-07-21,Thane,Kasarvadavali,Car,10437,7,211,57,Medium
+2025-07-22,Nagpur,Pratap Nagar,Bus,12963,7,203,51,High
+2025-07-23,Nashik,Panchavati,Auto,4299,5,192,44,Low
+2025-07-24,Thane,Majiwada,Truck,8546,2,250,27,Medium
+2025-07-25,Pune,Kothrud,Truck,12089,2,76,23,High
+2025-07-26,Thane,Ghodbunder,Auto,5040,0,175,26,Low
+2025-07-27,Thane,Ghodbunder,Auto,6915,7,119,51,Low
+2025-07-28,Thane,Kasarvadavali,Car,4085,3,294,30,Low
+2025-07-29,Thane,Kasarvadavali,Bike,5643,7,97,40,Low
+2025-07-30,Mumbai,Malad,Bike,5865,4,224,53,Low
+2025-07-31,Pune,Shivaji Nagar,Auto,5176,1,201,44,Low
+2025-08-01,Mumbai,Malad,Bus,5449,2,288,59,Low
+2025-08-02,Mumbai,Bandra,Car,12109,1,92,32,High
+2025-08-03,Nashik,College Road,Bike,7693,4,117,56,Medium
+2025-08-04,Nagpur,Sitabuldi,Car,4100,5,197,60,Low
+2025-08-05,Pune,Wakad,Car,10121,8,146,47,Medium
+2025-08-06,Pune,Shivaji Nagar,Bike,14665,3,173,58,High
+2025-08-07,Pune,Wakad,Bike,14348,7,115,24,High
+2025-08-08,Pune,Wakad,Car,4644,5,50,45,Low
+2025-08-09,Nashik,Panchavati,Car,8611,7,51,20,Medium
+2025-08-10,Nagpur,Pratap Nagar,Bike,9112,1,297,57,Medium
+2025-08-11,Mumbai,Bandra,Bus,10627,3,267,27,Medium
+2025-08-12,Nagpur,Dharampeth,Bus,13871,1,50,34,High
+2025-08-13,Mumbai,Lower Parel,Bus,13268,0,278,51,High
+2025-08-14,Nashik,Gangapur Road,Auto,5957,0,151,44,Low
+2025-08-15,Thane,Wagle Estate,Bus,11471,1,120,38,High
+2025-08-16,Nashik,College Road,Car,6587,3,239,25,Low
+2025-08-17,Thane,Manpada,Truck,7254,0,75,39,Medium
+2025-08-18,Mumbai,Bandra,Truck,4188,8,132,27,Low
+2025-08-19,Nashik,Indira Nagar,Bus,9265,8,217,31,Medium
+2025-08-20,Pune,Viman Nagar,Bike,13303,6,173,51,High
+2025-08-21,Nashik,Indira Nagar,Car,11709,8,209,38,High
+2025-08-22,Pune,Shivaji Nagar,Truck,11773,0,88,49,High
+2025-08-23,Nagpur,Sadar,Car,11542,5,146,49,High
+2025-08-24,Mumbai,Andheri,Car,4638,1,161,24,Low
+2025-08-25,Nashik,Gangapur Road,Auto,12386,5,249,31,High
+2025-08-26,Nashik,Panchavati,Car,7642,7,155,35,Medium
+2025-08-27,Nashik,Indira Nagar,Car,10854,4,284,41,Medium
+2025-08-28,Pune,Kothrud,Bike,5274,5,216,35,Low
+2025-08-29,Mumbai,Andheri,Auto,5032,0,226,45,Low
+2025-08-30,Pune,Shivaji Nagar,Car,9458,0,223,33,Medium
+2025-08-31,Nashik,Indira Nagar,Car,10877,0,124,33,Medium
+2025-09-01,Thane,Majiwada,Truck,9096,8,95,45,Medium
+2025-09-02,Mumbai,Bandra,Bus,6931,4,217,49,Low
+2025-09-03,Nashik,Indira Nagar,Truck,5744,1,72,25,Low
+2025-09-04,Nagpur,Sadar,Bike,4101,7,40,35,Low
+2025-09-05,Nashik,Mumbai Naka,Auto,14369,6,298,37,High
+2025-09-06,Nagpur,Sadar,Bus,8843,8,127,55,Medium
+2025-09-07,Nagpur,Pratap Nagar,Car,12617,1,121,59,High
+2025-09-08,Mumbai,Andheri,Bus,6931,8,68,27,Low
+2025-09-09,Pune,Kothrud,Car,10807,8,134,40,Medium
+2025-09-10,Nagpur,Trimurti Nagar,Truck,12833,2,185,36,High
+2025-09-11,Thane,Wagle Estate,Auto,10812,2,129,23,Medium
+2025-09-12,Thane,Kasarvadavali,Bike,11769,2,47,38,High
+2025-09-13,Thane,Ghodbunder,Car,12051,7,82,37,High
+2025-09-14,Mumbai,Malad,Car,5870,4,250,31,Low
+2025-09-15,Nashik,Mumbai Naka,Truck,4156,3,250,29,Low
+2025-09-16,Nashik,College Road,Car,8222,4,102,32,Medium
+2025-09-17,Pune,Viman Nagar,Truck,7860,0,124,51,Medium
+2025-09-18,Thane,Kasarvadavali,Car,8787,6,40,38,Medium
+2025-09-19,Nagpur,Dharampeth,Bike,6001,5,217,57,Low
+2025-09-20,Nashik,Gangapur Road,Car,13723,7,62,46,High
+2025-09-21,Pune,Kothrud,Bike,11198,2,246,30,High
+2025-09-22,Nagpur,Pratap Nagar,Car,13478,3,88,39,High
+2025-09-23,Mumbai,Andheri,Auto,10844,6,262,27,Medium
+2025-09-24,Thane,Ghodbunder,Bike,12958,3,238,28,High
+2025-09-25,Thane,Majiwada,Bike,8194,2,128,53,Medium
+2025-09-26,Nagpur,Trimurti Nagar,Bike,5285,1,180,41,Low
+2025-09-27,Mumbai,Bandra,Bus,5278,4,45,30,Low
+2025-09-28,Pune,Shivaji Nagar,Bike,9203,6,140,28,Medium
+2025-09-29,Thane,Majiwada,Truck,8586,5,40,25,Medium
+2025-09-30,Nashik,Indira Nagar,Car,7813,0,80,25,Medium
+2025-10-01,Thane,Majiwada,Bike,6791,8,64,50,Low
+2025-10-02,Mumbai,Bandra,Bike,13499,4,129,51,High
+2025-10-03,Pune,Kothrud,Truck,6665,8,153,22,Low
+2025-10-04,Thane,Majiwada,Bus,10983,7,113,53,Medium
+2025-10-05,Mumbai,Malad,Auto,6183,3,274,43,Low
+2025-10-06,Mumbai,Lower Parel,Bike,10752,6,97,58,Medium
+2025-10-07,Thane,Manpada,Bike,7684,4,195,35,Medium
+2025-10-08,Thane,Majiwada,Bike,6775,1,300,37,Low
+2025-10-09,Nagpur,Pratap Nagar,Bus,10708,5,120,39,Medium
+2025-10-10,Pune,Viman Nagar,Bus,5926,7,76,39,Low
+2025-10-11,Pune,Hinjewadi,Truck,11895,6,257,59,High
+2025-10-12,Mumbai,Malad,Car,11849,8,220,52,High
+2025-10-13,Thane,Majiwada,Bike,11932,2,245,53,High
+2025-10-14,Mumbai,Andheri,Auto,7837,6,198,24,Medium
+2025-10-15,Nagpur,Sitabuldi,Auto,10047,8,47,29,Medium
+2025-10-16,Mumbai,Lower Parel,Car,11973,4,142,24,High
+2025-10-17,Nashik,College Road,Auto,9493,7,116,47,Medium
+2025-10-18,Pune,Shivaji Nagar,Truck,9505,7,268,21,Medium
+2025-10-19,Pune,Shivaji Nagar,Auto,10256,4,183,44,Medium
+2025-10-20,Thane,Manpada,Bike,6598,8,275,47,Low
+2025-10-21,Pune,Viman Nagar,Bus,14295,3,289,31,High
+2025-10-22,Nashik,College Road,Car,4449,4,71,26,Low
+2025-10-23,Thane,Ghodbunder,Bus,4008,5,190,33,Low
+2025-10-24,Mumbai,Andheri,Truck,6191,0,166,23,Low
+2025-10-25,Thane,Kasarvadavali,Bike,6112,5,279,23,Low
+2025-10-26,Thane,Ghodbunder,Auto,11142,7,242,46,High
+2025-10-27,Mumbai,Malad,Bus,7030,7,299,20,Medium
+2025-10-28,Pune,Viman Nagar,Bike,13985,5,230,22,High
+2025-10-29,Mumbai,Malad,Auto,10735,0,260,22,Medium
+2025-10-30,Thane,Ghodbunder,Auto,11120,6,176,52,High
+2025-10-31,Mumbai,Dadar,Auto,5468,4,193,38,Low
+2025-11-01,Pune,Wakad,Car,6158,2,190,60,Low
+2025-11-02,Nashik,Indira Nagar,Bike,9890,3,102,53,Medium
+2025-11-03,Nashik,Gangapur Road,Truck,5479,1,138,25,Low
+2025-11-04,Thane,Kasarvadavali,Car,7011,2,143,56,Medium
+2025-11-05,Thane,Manpada,Truck,9596,4,189,39,Medium
+2025-11-06,Nagpur,Sitabuldi,Truck,12135,6,216,23,High
+2025-11-07,Pune,Viman Nagar,Bike,12674,1,131,24,High
+2025-11-08,Mumbai,Lower Parel,Bike,4549,0,254,42,Low
+2025-11-09,Pune,Viman Nagar,Auto,13451,4,269,44,High
+2025-11-10,Thane,Wagle Estate,Bike,5556,0,262,35,Low
+2025-11-11,Mumbai,Lower Parel,Bus,7093,7,199,39,Medium
+2025-11-12,Mumbai,Bandra,Car,13130,6,196,36,High
+2025-11-13,Thane,Kasarvadavali,Truck,6536,2,283,25,Low
+2025-11-14,Nagpur,Sitabuldi,Auto,4442,1,198,53,Low
+2025-11-15,Pune,Hinjewadi,Bus,9740,0,284,50,Medium
+2025-11-16,Mumbai,Bandra,Auto,8996,5,123,31,Medium
+2025-11-17,Mumbai,Malad,Bike,5693,8,206,48,Low
+2025-11-18,Pune,Shivaji Nagar,Bus,5030,4,237,37,Low
+2025-11-19,Nashik,Gangapur Road,Car,8080,6,169,37,Medium
+2025-11-20,Pune,Kothrud,Bus,9048,1,221,52,Medium
+2025-11-21,Nashik,College Road,Bike,9364,5,233,48,Medium
+2025-11-22,Thane,Majiwada,Bike,9939,5,113,42,Medium
+2025-11-23,Mumbai,Bandra,Bus,7643,7,98,57,Medium
+2025-11-24,Nagpur,Sadar,Truck,5309,1,85,41,Low
+2025-11-25,Pune,Viman Nagar,Bike,14294,7,250,47,High
+2025-11-26,Thane,Wagle Estate,Bike,13794,3,108,35,High
+2025-11-27,Mumbai,Dadar,Auto,11003,4,273,39,High
+2025-11-28,Mumbai,Malad,Auto,14278,6,128,44,High
+2025-11-29,Nashik,Panchavati,Bus,9014,3,224,49,Medium
+2025-11-30,Nagpur,Sadar,Bus,11299,2,178,47,High
+2025-12-01,Nashik,Indira Nagar,Bike,8737,5,83,53,Medium
+2025-12-02,Pune,Wakad,Auto,7441,0,168,47,Medium
+2025-12-03,Mumbai,Andheri,Bus,10529,7,256,29,Medium
+2025-12-04,Nagpur,Dharampeth,Bike,12553,6,115,60,High
+2025-12-05,Thane,Ghodbunder,Car,6582,0,136,29,Low
+2025-12-06,Pune,Shivaji Nagar,Auto,7964,3,224,56,Medium
+2025-12-07,Nagpur,Trimurti Nagar,Bike,13318,3,177,41,High
+2025-12-08,Mumbai,Malad,Bike,4469,0,193,45,Low
+2025-12-09,Nashik,College Road,Car,10144,7,273,22,Medium
+2025-12-10,Pune,Hinjewadi,Bike,6288,6,268,47,Low
+2025-12-11,Nagpur,Pratap Nagar,Bus,6816,1,46,52,Low
+2025-12-12,Pune,Shivaji Nagar,Bus,5082,7,55,38,Low
+2025-12-13,Nashik,Gangapur Road,Bike,14866,4,288,60,High
+2025-12-14,Pune,Hinjewadi,Auto,10837,0,92,32,Medium
+2025-12-15,Thane,Kasarvadavali,Bus,14569,7,179,28,High
+2025-12-16,Thane,Wagle Estate,Bike,7865,3,48,24,Medium
+2025-12-17,Mumbai,Dadar,Car,7311,6,70,47,Medium
+2025-12-18,Nashik,Mumbai Naka,Truck,4429,2,111,37,Low
+2025-12-19,Thane,Majiwada,Auto,11597,2,154,51,High
+2025-12-20,Thane,Manpada,Bus,9021,2,236,28,Medium
+2025-12-21,Pune,Viman Nagar,Truck,6645,2,127,47,Low
+2025-12-22,Pune,Shivaji Nagar,Truck,10979,4,246,37,Medium
+2025-12-23,Nagpur,Dharampeth,Bus,10078,3,139,26,Medium
+2025-12-24,Nashik,College Road,Bus,10978,1,269,42,Medium
+2025-12-25,Mumbai,Dadar,Truck,10302,3,223,20,Medium
+2025-12-26,Thane,Wagle Estate,Auto,8628,3,45,34,Medium
+2025-12-27,Nashik,Mumbai Naka,Car,5412,7,293,28,Low
+2025-12-28,Thane,Manpada,Truck,6022,4,298,51,Low
+2025-12-29,Nashik,Panchavati,Bus,12776,5,206,53,High
+2025-12-30,Thane,Majiwada,Auto,8057,6,144,34,Medium
+2025-12-31,Pune,Shivaji Nagar,Bus,5983,5,150,55,Low
+2025-01-01,Nashik,College Road,Auto,13406,8,99,46,High
+2025-01-02,Mumbai,Bandra,Truck,6921,7,113,22,Low
+2025-01-03,Nashik,Mumbai Naka,Bus,7168,2,94,34,Medium
+2025-01-04,Pune,Wakad,Car,6489,6,43,57,Low
+2025-01-05,Nagpur,Sitabuldi,Auto,6422,6,291,31,Low
+2025-01-06,Mumbai,Bandra,Bus,12458,1,53,50,High
+2025-01-07,Thane,Ghodbunder,Bike,9112,7,97,30,Medium
+2025-01-08,Nashik,Mumbai Naka,Bike,6428,3,285,39,Low
+2025-01-09,Mumbai,Andheri,Car,10690,5,276,44,Medium
+2025-01-10,Pune,Kothrud,Bike,11777,7,209,60,High
+2025-01-11,Nashik,Gangapur Road,Bike,8374,3,121,28,Medium
+2025-01-12,Thane,Ghodbunder,Bus,8310,7,61,54,Medium
+2025-01-13,Pune,Wakad,Bike,5677,4,61,51,Low
+2025-01-14,Pune,Hinjewadi,Bike,5438,5,242,55,Low
+2025-01-15,Nagpur,Sitabuldi,Car,14818,0,279,38,High
+2025-01-16,Nashik,Gangapur Road,Bus,7548,6,254,23,Medium
+2025-01-17,Nagpur,Dharampeth,Bus,13654,6,239,44,High
+2025-01-18,Nagpur,Sadar,Truck,6285,2,174,41,Low
+2025-01-19,Mumbai,Dadar,Car,7438,4,113,60,Medium
+2025-01-20,Nashik,Mumbai Naka,Car,6551,8,272,27,Low
+2025-01-21,Nashik,Gangapur Road,Truck,12614,1,192,55,High
+2025-01-22,Thane,Ghodbunder,Auto,7465,2,240,34,Medium
+2025-01-23,Thane,Majiwada,Bike,7211,6,75,47,Medium
+2025-01-24,Mumbai,Andheri,Truck,5281,2,104,29,Low
+2025-01-25,Nashik,Gangapur Road,Auto,6736,5,266,44,Low
+2025-01-26,Nashik,College Road,Car,14274,2,200,25,High
+2025-01-27,Pune,Viman Nagar,Bus,10188,3,294,37,Medium
+2025-01-28,Thane,Kasarvadavali,Car,9260,6,203,44,Medium
+2025-01-29,Mumbai,Dadar,Truck,10096,2,275,44,Medium
+2025-01-30,Thane,Kasarvadavali,Truck,4777,4,264,42,Low
+2025-01-31,Thane,Ghodbunder,Auto,10571,6,229,30,Medium
+2025-02-01,Nashik,Mumbai Naka,Auto,14472,7,223,28,High
+2025-02-02,Mumbai,Malad,Bus,14925,6,77,60,High
+2025-02-03,Nashik,Mumbai Naka,Car,6771,4,113,25,Low
+2025-02-04,Mumbai,Dadar,Bus,14784,3,163,48,High
+2025-02-05,Nashik,Indira Nagar,Bike,14703,4,184,22,High
+2025-02-06,Nashik,Mumbai Naka,Bus,6721,3,52,38,Low
+2025-02-07,Nagpur,Trimurti Nagar,Car,4213,1,95,49,Low
+2025-02-08,Nashik,Panchavati,Car,12093,6,180,35,High
+2025-02-09,Mumbai,Malad,Auto,14892,4,181,49,High
+2025-02-10,Thane,Manpada,Car,10297,7,181,51,Medium
+2025-02-11,Mumbai,Andheri,Car,7910,3,88,52,Medium
+2025-02-12,Nashik,Panchavati,Truck,10439,3,156,37,Medium
+2025-02-13,Mumbai,Dadar,Truck,10301,4,218,34,Medium
+2025-02-14,Thane,Wagle Estate,Truck,10115,6,73,25,Medium
+2025-02-15,Nagpur,Sitabuldi,Bike,11113,5,115,32,High
+2025-02-16,Pune,Hinjewadi,Truck,6367,7,297,45,Low
+2025-02-17,Mumbai,Andheri,Bike,10799,6,296,27,Medium
+2025-02-18,Nashik,Mumbai Naka,Bike,7769,6,228,48,Medium
+2025-02-19,Pune,Hinjewadi,Bike,9995,2,197,50,Medium
+2025-02-20,Pune,Kothrud,Truck,13843,7,84,57,High
+2025-02-21,Thane,Wagle Estate,Car,9073,2,82,59,Medium
+2025-02-22,Pune,Viman Nagar,Bike,10932,8,266,40,Medium
+2025-02-23,Thane,Manpada,Auto,9013,5,200,39,Medium
+2025-02-24,Nashik,Indira Nagar,Auto,6641,5,207,43,Low
+2025-02-25,Mumbai,Dadar,Auto,10748,4,156,52,Medium
+2025-02-26,Nagpur,Dharampeth,Auto,12615,7,111,25,High
+2025-02-27,Thane,Kasarvadavali,Truck,11999,8,92,47,High
+2025-02-28,Mumbai,Lower Parel,Bike,11931,2,43,52,High
+2025-03-01,Pune,Viman Nagar,Truck,8121,3,243,54,Medium
+2025-03-02,Mumbai,Andheri,Car,4704,4,51,20,Low
+2025-03-03,Nagpur,Sitabuldi,Truck,9847,7,256,58,Medium
+2025-03-04,Thane,Majiwada,Car,5527,2,136,55,Low
+2025-03-05,Thane,Majiwada,Auto,11481,8,141,55,High
+2025-03-06,Pune,Hinjewadi,Car,5972,8,231,26,Low
+2025-03-07,Thane,Manpada,Bus,10852,6,104,20,Medium
+2025-03-08,Pune,Wakad,Truck,4181,2,63,52,Low
+2025-03-09,Mumbai,Dadar,Truck,5124,6,273,33,Low
+2025-03-10,Nashik,Indira Nagar,Auto,14234,8,138,42,High
+2025-03-11,Mumbai,Malad,Truck,13972,6,140,47,High
+2025-03-12,Mumbai,Andheri,Bus,14900,3,123,49,High
+2025-03-13,Nashik,Panchavati,Car,4899,3,154,34,Low
+2025-03-14,Nagpur,Trimurti Nagar,Car,5913,8,181,58,Low
+2025-03-15,Nagpur,Trimurti Nagar,Auto,6517,4,78,55,Low
+2025-03-16,Pune,Hinjewadi,Truck,11709,7,63,53,High
+2025-03-17,Nashik,Mumbai Naka,Bike,11221,8,260,29,High
+2025-03-18,Pune,Kothrud,Auto,14680,1,79,50,High
+2025-03-19,Nashik,Indira Nagar,Car,5300,0,117,57,Low
+2025-03-20,Mumbai,Andheri,Car,10703,5,267,46,Medium
+2025-03-21,Thane,Manpada,Truck,13968,6,91,60,High
+2025-03-22,Mumbai,Malad,Truck,4639,0,82,56,Low
+2025-03-23,Nagpur,Dharampeth,Bike,7228,0,281,37,Medium
+2025-03-24,Mumbai,Bandra,Auto,14397,3,217,29,High
+2025-03-25,Pune,Viman Nagar,Car,11455,4,232,55,High
+2025-03-26,Nagpur,Dharampeth,Auto,4651,2,194,58,Low
+2025-03-27,Nashik,College Road,Bike,7842,0,98,60,Medium
+2025-03-28,Nagpur,Sitabuldi,Bike,10642,7,269,47,Medium
+2025-03-29,Nagpur,Pratap Nagar,Bus,11623,6,88,59,High
+2025-03-30,Nagpur,Trimurti Nagar,Car,9526,0,266,55,Medium
+2025-03-31,Pune,Hinjewadi,Bike,4842,6,55,58,Low
+2025-04-01,Mumbai,Lower Parel,Auto,12236,8,211,47,High
+2025-04-02,Pune,Wakad,Bike,11402,5,173,30,High
+2025-04-03,Nashik,Gangapur Road,Bike,8827,4,105,31,Medium
+2025-04-04,Mumbai,Bandra,Car,6779,1,140,47,Low
+2025-04-05,Nagpur,Sitabuldi,Car,5625,0,226,49,Low
+2025-04-06,Nashik,Panchavati,Car,4443,8,245,24,Low
+2025-04-07,Nagpur,Sadar,Truck,4207,2,297,28,Low
+2025-04-08,Nashik,Indira Nagar,Truck,4018,8,187,25,Low
+2025-04-09,Nagpur,Pratap Nagar,Truck,6104,2,232,59,Low
+2025-04-10,Pune,Wakad,Bus,7176,8,222,32,Medium
+2025-04-11,Mumbai,Bandra,Car,5713,6,214,58,Low
+2025-04-12,Thane,Wagle Estate,Auto,10703,2,40,48,Medium
+2025-04-13,Nashik,Mumbai Naka,Bus,6652,4,110,56,Low
+2025-04-14,Mumbai,Lower Parel,Bike,8894,3,220,39,Medium
+2025-04-15,Pune,Viman Nagar,Truck,8529,8,172,20,Medium
+2025-04-16,Nagpur,Sitabuldi,Bike,14365,4,136,53,High
+2025-04-17,Thane,Majiwada,Bike,8786,2,203,40,Medium
+2025-04-18,Mumbai,Lower Parel,Car,8819,7,63,58,Medium
+2025-04-19,Mumbai,Dadar,Truck,5317,7,295,46,Low
+2025-04-20,Pune,Hinjewadi,Car,14362,4,118,42,High
+2025-04-21,Nashik,College Road,Auto,10964,5,85,30,Medium
+2025-04-22,Nagpur,Pratap Nagar,Bus,13767,6,251,28,High
+2025-04-23,Mumbai,Lower Parel,Bus,11655,6,73,31,High
+2025-04-24,Pune,Kothrud,Bike,11427,5,202,55,High
+2025-04-25,Nashik,Indira Nagar,Auto,6442,2,253,60,Low
+2025-04-26,Nagpur,Sitabuldi,Auto,8530,0,123,38,Medium
+2025-04-27,Nashik,College Road,Bike,5068,1,283,41,Low
+2025-04-28,Pune,Hinjewadi,Bike,4654,4,273,55,Low
+2025-04-29,Pune,Kothrud,Bike,7862,1,42,54,Medium
+2025-04-30,Mumbai,Bandra,Truck,7032,2,129,41,Medium
+2025-05-01,Thane,Manpada,Bike,12975,4,211,47,High
+2025-05-02,Pune,Wakad,Auto,7369,8,69,29,Medium
+2025-05-03,Nashik,Mumbai Naka,Truck,12142,0,56,55,High
+2025-05-04,Nashik,Indira Nagar,Truck,9515,1,124,45,Medium
+2025-05-05,Pune,Wakad,Bike,4819,8,198,41,Low
+2025-05-06,Pune,Kothrud,Bike,14459,5,183,31,High
+2025-05-07,Nashik,Panchavati,Car,6323,8,89,57,Low
+2025-05-08,Thane,Wagle Estate,Bike,7477,2,280,41,Medium
+2025-05-09,Nagpur,Trimurti Nagar,Truck,4716,8,79,41,Low
+2025-05-10,Nashik,Gangapur Road,Car,11272,3,288,31,High
+2025-05-11,Pune,Kothrud,Bike,9206,1,221,55,Medium
+2025-05-12,Nagpur,Trimurti Nagar,Car,10407,5,296,22,Medium
+2025-05-13,Thane,Kasarvadavali,Bike,8516,8,216,26,Medium
+2025-05-14,Mumbai,Lower Parel,Auto,6250,7,219,59,Low
+2025-05-15,Mumbai,Andheri,Auto,7175,0,239,41,Medium
+2025-05-16,Thane,Ghodbunder,Bike,8543,0,106,50,Medium
+2025-05-17,Nashik,Gangapur Road,Bus,6309,8,117,58,Low
+2025-05-18,Nagpur,Pratap Nagar,Truck,13570,3,103,51,High
+2025-05-19,Nagpur,Sadar,Bus,12754,5,290,23,High
+2025-05-20,Nashik,Mumbai Naka,Car,14057,4,203,23,High
+2025-05-21,Mumbai,Bandra,Truck,9069,5,91,45,Medium
+2025-05-22,Mumbai,Andheri,Car,11603,7,251,50,High
+2025-05-23,Nagpur,Trimurti Nagar,Truck,7963,0,63,51,Medium
+2025-05-24,Nashik,College Road,Auto,5881,5,90,52,Low
+2025-05-25,Nagpur,Trimurti Nagar,Bike,9527,7,297,38,Medium
+2025-05-26,Nagpur,Sadar,Auto,5281,6,228,29,Low
+2025-05-27,Thane,Manpada,Truck,7633,0,148,27,Medium
+2025-05-28,Nagpur,Sitabuldi,Car,13604,3,186,31,High
+2025-05-29,Pune,Shivaji Nagar,Car,4925,2,265,42,Low
+2025-05-30,Mumbai,Malad,Bike,13039,3,44,60,High
+2025-05-31,Nashik,Panchavati,Car,8021,5,94,23,Medium
+2025-06-01,Nagpur,Sitabuldi,Bus,11877,2,258,55,High
+2025-06-02,Thane,Ghodbunder,Car,5901,1,50,58,Low
+2025-06-03,Nashik,College Road,Car,11390,0,113,57,High
+2025-06-04,Mumbai,Bandra,Car,10920,2,198,43,Medium
+2025-06-05,Nagpur,Pratap Nagar,Bike,6149,0,155,60,Low
+2025-06-06,Pune,Shivaji Nagar,Car,12338,1,242,41,High
+2025-06-07,Pune,Hinjewadi,Bus,12158,4,102,50,High
+2025-06-08,Mumbai,Andheri,Auto,10646,2,246,32,Medium
+2025-06-09,Mumbai,Dadar,Car,14294,0,188,22,High
+2025-06-10,Nashik,Indira Nagar,Truck,5513,1,224,54,Low
+2025-06-11,Nagpur,Sadar,Truck,12099,7,217,22,High
+2025-06-12,Thane,Wagle Estate,Car,10506,6,112,38,Medium
+2025-06-13,Nashik,Panchavati,Auto,12646,3,280,51,High
+2025-06-14,Pune,Kothrud,Bus,8568,6,296,34,Medium
+2025-06-15,Mumbai,Lower Parel,Bike,10309,6,293,25,Medium
+2025-06-16,Nagpur,Pratap Nagar,Truck,6740,5,185,42,Low
+2025-06-17,Thane,Kasarvadavali,Auto,12583,7,157,38,High
+2025-06-18,Nagpur,Sadar,Truck,9449,6,279,20,Medium
+2025-06-19,Nagpur,Trimurti Nagar,Auto,13621,1,129,22,High
+2025-06-20,Pune,Hinjewadi,Car,14964,2,64,55,High
+2025-06-21,Thane,Manpada,Auto,8965,8,72,25,Medium
+2025-06-22,Pune,Kothrud,Truck,13607,1,292,53,High
+2025-06-23,Thane,Kasarvadavali,Bike,6789,3,210,55,Low
+2025-06-24,Nashik,College Road,Bike,5692,5,91,21,Low
+2025-06-25,Nashik,Panchavati,Auto,12528,5,79,24,High
+2025-06-26,Thane,Wagle Estate,Truck,10902,0,145,39,Medium
+2025-06-27,Nagpur,Sitabuldi,Bike,5806,3,85,52,Low
+2025-06-28,Pune,Kothrud,Truck,12864,6,252,21,High
+2025-06-29,Pune,Wakad,Bike,13307,0,133,48,High
+2025-06-30,Thane,Majiwada,Bike,5241,2,208,39,Low
+2025-07-01,Mumbai,Lower Parel,Bus,11797,4,194,21,High
+2025-07-02,Pune,Kothrud,Truck,13910,7,230,23,High
+2025-07-03,Pune,Wakad,Auto,14272,8,67,53,High
+2025-07-04,Nashik,Mumbai Naka,Car,12662,3,200,43,High
+2025-07-05,Nashik,Mumbai Naka,Bike,8701,6,281,28,Medium
+2025-07-06,Thane,Ghodbunder,Auto,9199,3,239,46,Medium
+2025-07-07,Mumbai,Lower Parel,Truck,10493,5,266,20,Medium
+2025-07-08,Nashik,Panchavati,Truck,14585,3,194,45,High
+2025-07-09,Nashik,Panchavati,Car,4399,1,48,60,Low
+2025-07-10,Pune,Wakad,Auto,8460,1,160,41,Medium
+2025-07-11,Pune,Viman Nagar,Bike,13744,6,268,43,High
+2025-07-12,Pune,Wakad,Bus,8917,4,107,48,Medium
+2025-07-13,Mumbai,Andheri,Bus,6424,4,49,47,Low
+2025-07-14,Thane,Kasarvadavali,Truck,10215,7,220,35,Medium
+2025-07-15,Pune,Kothrud,Bus,8494,0,161,44,Medium
+2025-07-16,Nashik,Indira Nagar,Bike,7330,2,248,24,Medium
+2025-07-17,Mumbai,Bandra,Auto,14522,0,258,60,High
+2025-07-18,Thane,Kasarvadavali,Auto,14433,6,229,57,High
+2025-07-19,Pune,Kothrud,Bus,11543,3,296,33,High
+2025-07-20,Nagpur,Dharampeth,Auto,7509,0,297,45,Medium
+2025-07-21,Nagpur,Sadar,Car,8088,3,167,47,Medium
+2025-07-22,Thane,Kasarvadavali,Car,4686,1,64,46,Low
+2025-07-23,Nashik,Panchavati,Bike,14783,3,217,44,High
+2025-07-24,Mumbai,Malad,Auto,4249,0,220,29,Low
+2025-07-25,Thane,Wagle Estate,Bus,14764,2,81,24,High
+2025-07-26,Mumbai,Bandra,Bike,10940,6,216,51,Medium
+2025-07-27,Thane,Manpada,Truck,8682,1,206,48,Medium
+2025-07-28,Nagpur,Sitabuldi,Car,13314,6,176,28,High
+2025-07-29,Pune,Hinjewadi,Bike,4300,1,274,33,Low
+2025-07-30,Nagpur,Sadar,Bus,5458,3,205,57,Low
+2025-07-31,Nagpur,Sitabuldi,Car,14549,0,125,55,High
+2025-08-01,Nagpur,Sadar,Bus,10193,5,258,34,Medium
+2025-08-02,Thane,Ghodbunder,Auto,12264,4,82,21,High
+2025-08-03,Nashik,Mumbai Naka,Bus,13088,4,174,42,High
+2025-08-04,Nashik,Panchavati,Truck,5095,6,202,34,Low
+2025-08-05,Pune,Kothrud,Bus,13241,8,114,47,High
+2025-08-06,Pune,Wakad,Car,4533,1,47,54,Low
+2025-08-07,Mumbai,Malad,Bus,10648,6,278,43,Medium
+2025-08-08,Nagpur,Trimurti Nagar,Truck,4189,5,231,22,Low
+2025-08-09,Nagpur,Dharampeth,Auto,12667,2,221,20,High
+2025-08-10,Nagpur,Trimurti Nagar,Car,7371,3,270,60,Medium
+2025-08-11,Pune,Shivaji Nagar,Bike,12937,8,56,50,High
+2025-08-12,Mumbai,Lower Parel,Car,8359,1,280,46,Medium
+2025-08-13,Pune,Kothrud,Car,11619,2,188,23,High
+2025-08-14,Thane,Majiwada,Car,14593,1,197,58,High
+2025-08-15,Mumbai,Dadar,Bus,6822,0,232,47,Low
+2025-08-16,Pune,Wakad,Auto,12660,4,257,42,High
+2025-08-17,Nashik,Panchavati,Bike,11179,2,281,47,High
+2025-08-18,Pune,Hinjewadi,Truck,6242,2,69,27,Low
+2025-08-19,Mumbai,Lower Parel,Auto,4337,7,91,32,Low
+2025-08-20,Nagpur,Sitabuldi,Bus,14755,0,93,49,High
+2025-08-21,Pune,Shivaji Nagar,Car,6404,4,44,50,Low
+2025-08-22,Nagpur,Trimurti Nagar,Bus,4549,2,230,42,Low
+2025-08-23,Mumbai,Bandra,Car,12083,2,240,22,High
+2025-08-24,Nashik,Panchavati,Bus,11133,3,261,26,High
+2025-08-25,Mumbai,Malad,Truck,9158,1,78,29,Medium
+2025-08-26,Thane,Ghodbunder,Bike,14978,2,172,43,High
+2025-08-27,Mumbai,Lower Parel,Auto,4690,5,204,40,Low
+2025-08-28,Pune,Shivaji Nagar,Car,4596,2,267,48,Low
+2025-08-29,Nashik,Gangapur Road,Bike,7851,2,65,52,Medium
+2025-08-30,Nashik,Gangapur Road,Truck,14043,2,55,24,High
+2025-08-31,Thane,Majiwada,Car,11714,4,109,30,High
+2025-09-01,Thane,Kasarvadavali,Bike,10545,0,180,47,Medium
+2025-09-02,Nashik,Mumbai Naka,Car,7163,3,59,33,Medium
+2025-09-03,Nagpur,Trimurti Nagar,Truck,4422,5,195,40,Low
+2025-09-04,Nagpur,Sitabuldi,Bike,11863,5,71,21,High
+2025-09-05,Nashik,Panchavati,Car,8251,2,210,53,Medium
+2025-09-06,Nagpur,Sadar,Truck,4751,6,249,40,Low
+2025-09-07,Nagpur,Sadar,Car,5591,8,257,45,Low
+2025-09-08,Nashik,College Road,Truck,6396,1,144,38,Low
+2025-09-09,Nagpur,Sadar,Truck,13122,3,285,29,High
+2025-09-10,Mumbai,Dadar,Car,13065,3,265,33,High
+2025-09-11,Mumbai,Malad,Bus,7083,4,161,53,Medium
+2025-09-12,Mumbai,Bandra,Bus,8560,0,241,29,Medium
+2025-09-13,Mumbai,Dadar,Auto,5117,0,192,40,Low
+2025-09-14,Nashik,Indira Nagar,Truck,9100,7,259,24,Medium
+2025-09-15,Nashik,Mumbai Naka,Auto,13853,2,43,43,High
+2025-09-16,Nashik,College Road,Bus,4735,0,276,59,Low
+2025-09-17,Mumbai,Lower Parel,Auto,5864,6,244,52,Low
+2025-09-18,Mumbai,Lower Parel,Truck,14561,4,213,30,High
+2025-09-19,Nashik,Indira Nagar,Truck,4839,4,195,34,Low
+2025-09-20,Nashik,Indira Nagar,Auto,12776,6,186,24,High
+2025-09-21,Mumbai,Lower Parel,Bike,10882,2,151,58,Medium
+2025-09-22,Pune,Shivaji Nagar,Bike,6846,7,95,51,Low
+2025-09-23,Nagpur,Dharampeth,Truck,12507,1,44,51,High
+2025-09-24,Thane,Kasarvadavali,Truck,13776,5,174,57,High
+2025-09-25,Nashik,College Road,Auto,6224,3,219,54,Low
+2025-09-26,Nagpur,Sadar,Bike,13008,8,294,48,High
+2025-09-27,Thane,Manpada,Bus,4417,3,274,29,Low
+2025-09-28,Pune,Wakad,Auto,11424,4,85,60,High
+2025-09-29,Pune,Hinjewadi,Bike,8509,4,184,29,Medium
+2025-09-30,Nashik,Indira Nagar,Car,11556,0,59,53,High
+2025-10-01,Nagpur,Sitabuldi,Auto,9456,4,202,57,Medium
+2025-10-02,Nashik,Panchavati,Bus,7465,4,104,38,Medium
+2025-10-03,Thane,Manpada,Bus,14139,2,78,37,High
+2025-10-04,Nagpur,Sadar,Bike,6074,1,192,31,Low
+2025-10-05,Nagpur,Sitabuldi,Bus,14897,5,149,44,High
+2025-10-06,Thane,Kasarvadavali,Bike,10467,1,88,21,Medium
+2025-10-07,Mumbai,Andheri,Bus,8361,0,149,25,Medium
+2025-10-08,Nagpur,Sitabuldi,Truck,7779,1,279,33,Medium
+2025-10-09,Pune,Kothrud,Auto,6019,8,156,28,Low
+2025-10-10,Nashik,Gangapur Road,Auto,10226,3,74,37,Medium
+2025-10-11,Nashik,Mumbai Naka,Bus,8312,0,196,42,Medium
+2025-10-12,Thane,Majiwada,Car,13080,7,267,55,High
+2025-10-13,Pune,Hinjewadi,Truck,13816,4,261,58,High
+2025-10-14,Nashik,Indira Nagar,Bike,5175,8,253,21,Low
+2025-10-15,Nashik,College Road,Bike,9897,2,43,21,Medium
+2025-10-16,Nagpur,Pratap Nagar,Truck,6140,3,155,25,Low
+2025-10-17,Mumbai,Malad,Bike,10945,4,299,44,Medium
+2025-10-18,Nashik,Indira Nagar,Car,9961,4,182,24,Medium
+2025-10-19,Thane,Ghodbunder,Truck,6324,7,270,40,Low
+2025-10-20,Thane,Wagle Estate,Car,4327,1,139,34,Low
+2025-10-21,Mumbai,Dadar,Bus,13636,4,228,50,High
+2025-10-22,Nashik,Gangapur Road,Truck,9743,0,86,59,Medium
+2025-10-23,Nagpur,Dharampeth,Bike,6525,4,260,26,Low
+2025-10-24,Nashik,Indira Nagar,Auto,11081,6,43,20,High
+2025-10-25,Nagpur,Pratap Nagar,Auto,11983,8,189,28,High
+2025-10-26,Thane,Ghodbunder,Truck,7280,4,290,45,Medium
+2025-10-27,Nagpur,Trimurti Nagar,Bus,10639,3,282,26,Medium
+2025-10-28,Nagpur,Sadar,Truck,13993,6,209,57,High
+2025-10-29,Nashik,Indira Nagar,Bike,6559,7,227,52,Low
+2025-10-30,Nashik,Gangapur Road,Car,9970,7,250,55,Medium
+2025-10-31,Pune,Kothrud,Bus,6568,7,41,56,Low
+2025-11-01,Mumbai,Dadar,Truck,8543,0,125,39,Medium
+2025-11-02,Thane,Manpada,Car,9646,6,128,32,Medium
+2025-11-03,Nagpur,Dharampeth,Auto,6036,4,248,26,Low
+2025-11-04,Mumbai,Malad,Bus,8228,7,271,33,Medium
+2025-11-05,Mumbai,Andheri,Truck,11425,2,233,30,High
+2025-11-06,Thane,Manpada,Car,4753,6,58,27,Low
+2025-11-07,Mumbai,Lower Parel,Bus,6974,5,270,26,Low
+2025-11-08,Mumbai,Lower Parel,Car,12705,5,279,42,High
+2025-11-09,Pune,Wakad,Auto,4205,3,222,57,Low
+2025-11-10,Nashik,College Road,Car,13522,2,160,49,High
+2025-11-11,Pune,Shivaji Nagar,Bike,9099,3,151,25,Medium
+2025-11-12,Pune,Shivaji Nagar,Truck,11886,1,91,41,High
+2025-11-13,Mumbai,Dadar,Car,4559,7,65,24,Low
+2025-11-14,Nashik,Panchavati,Bus,8176,5,98,52,Medium
+2025-11-15,Thane,Majiwada,Auto,4436,3,160,35,Low
+2025-11-16,Thane,Manpada,Bike,11306,7,80,55,High
+2025-11-17,Nashik,Mumbai Naka,Bus,6411,5,200,50,Low
+2025-11-18,Pune,Shivaji Nagar,Bike,11470,4,287,51,High
+2025-11-19,Pune,Hinjewadi,Auto,5466,1,67,36,Low
+2025-11-20,Mumbai,Dadar,Auto,4733,4,61,37,Low
+2025-11-21,Mumbai,Andheri,Truck,8418,7,258,31,Medium
+2025-11-22,Nagpur,Trimurti Nagar,Car,14269,1,268,55,High
+2025-11-23,Nashik,College Road,Bus,5313,4,274,37,Low
+2025-11-24,Mumbai,Dadar,Truck,7779,0,288,31,Medium
+2025-11-25,Nashik,Panchavati,Bike,14963,7,231,24,High
+2025-11-26,Nagpur,Sitabuldi,Car,11757,7,213,54,High
+2025-11-27,Thane,Ghodbunder,Bus,12260,8,101,32,High
+2025-11-28,Thane,Kasarvadavali,Bus,10759,7,213,21,Medium
+2025-11-29,Nashik,Indira Nagar,Car,12740,5,75,26,High
+2025-11-30,Nashik,College Road,Car,7260,1,160,46,Medium
+2025-12-01,Mumbai,Andheri,Truck,6714,1,180,55,Low
+2025-12-02,Nagpur,Sitabuldi,Auto,11629,3,114,44,High
+2025-12-03,Nagpur,Pratap Nagar,Bike,5128,8,265,56,Low
+2025-12-04,Nagpur,Sadar,Car,11748,8,80,28,High
+2025-12-05,Nashik,Indira Nagar,Bus,5949,4,176,26,Low
+2025-12-06,Nashik,College Road,Bus,14760,3,222,32,High
+2025-12-07,Thane,Kasarvadavali,Truck,14937,5,140,60,High
+2025-12-08,Nagpur,Pratap Nagar,Bike,6940,5,80,21,Low
+2025-12-09,Nashik,Mumbai Naka,Auto,10630,4,97,44,Medium
+2025-12-10,Mumbai,Malad,Auto,10282,3,290,47,Medium
+2025-12-11,Mumbai,Bandra,Bus,11976,6,281,60,High
+2025-12-12,Pune,Wakad,Car,10024,3,91,41,Medium
+2025-12-13,Mumbai,Lower Parel,Truck,11345,8,61,21,High
+2025-12-14,Nagpur,Sadar,Car,5114,2,288,53,Low
+2025-12-15,Thane,Majiwada,Bike,11662,7,263,44,High
+2025-12-16,Nagpur,Sitabuldi,Bus,11609,2,163,27,High
+2025-12-17,Mumbai,Lower Parel,Auto,9148,1,204,26,Medium
+2025-12-18,Nashik,Panchavati,Bike,13186,3,198,20,High
+2025-12-19,Mumbai,Malad,Bus,5785,3,86,35,Low
+2025-12-20,Nagpur,Sitabuldi,Bike,6531,4,70,24,Low
+2025-12-21,Thane,Manpada,Bike,5452,4,292,23,Low
+2025-12-22,Thane,Manpada,Bike,5685,8,95,56,Low
+2025-12-23,Mumbai,Lower Parel,Bike,8251,8,212,47,Medium
+2025-12-24,Pune,Hinjewadi,Bus,14299,0,231,46,High
+2025-12-25,Nashik,Mumbai Naka,Car,6985,4,288,55,Low
+2025-12-26,Nashik,Mumbai Naka,Bike,5356,0,114,36,Low
+2025-12-27,Mumbai,Malad,Truck,6317,1,290,60,Low
+2025-12-28,Thane,Kasarvadavali,Bus,12562,5,98,25,High
+2025-12-29,Pune,Shivaji Nagar,Bus,13428,2,205,27,High
+2025-12-30,Mumbai,Dadar,Bus,14683,1,287,60,High
+2025-12-31,Mumbai,Dadar,Bike,4312,6,161,31,Low
+2025-01-01,Nagpur,Pratap Nagar,Car,13207,2,281,45,High
+2025-01-02,Nagpur,Pratap Nagar,Truck,4611,4,60,54,Low
+2025-01-03,Nashik,Panchavati,Car,6208,3,143,44,Low
+2025-01-04,Nagpur,Sitabuldi,Bike,13512,6,52,30,High
+2025-01-05,Nashik,Indira Nagar,Car,9696,7,139,32,Medium
+2025-01-06,Nashik,College Road,Bike,8077,0,87,20,Medium
+2025-01-07,Mumbai,Dadar,Car,8089,1,267,41,Medium
+2025-01-08,Pune,Hinjewadi,Car,8325,4,254,33,Medium
+2025-01-09,Mumbai,Malad,Auto,7485,8,249,47,Medium
+2025-01-10,Nashik,College Road,Bus,10132,4,233,60,Medium
+2025-01-11,Pune,Hinjewadi,Truck,14333,4,116,25,High
+2025-01-12,Thane,Ghodbunder,Bus,7983,8,123,58,Medium
+2025-01-13,Mumbai,Andheri,Auto,7818,4,296,49,Medium
+2025-01-14,Pune,Shivaji Nagar,Bus,9191,6,89,26,Medium
+2025-01-15,Thane,Majiwada,Car,13086,8,101,24,High
+2025-01-16,Nashik,Mumbai Naka,Bus,13922,1,166,60,High
+2025-01-17,Mumbai,Malad,Auto,8589,4,241,38,Medium
+2025-01-18,Pune,Shivaji Nagar,Car,12315,4,64,33,High
+2025-01-19,Thane,Kasarvadavali,Auto,13557,7,255,24,High
+2025-01-20,Thane,Majiwada,Car,10593,4,247,45,Medium
+2025-01-21,Mumbai,Andheri,Bus,5237,1,154,32,Low
+2025-01-22,Nashik,Gangapur Road,Truck,11754,0,200,53,High
+2025-01-23,Nashik,Indira Nagar,Truck,9899,5,143,46,Medium
+2025-01-24,Pune,Wakad,Car,9807,5,209,21,Medium
+2025-01-25,Nagpur,Trimurti Nagar,Bus,7078,6,275,24,Medium
+2025-01-26,Pune,Kothrud,Auto,11092,6,78,31,High
+2025-01-27,Nagpur,Sadar,Bus,14949,3,71,38,High
+2025-01-28,Nashik,Panchavati,Truck,9785,8,279,53,Medium
+2025-01-29,Mumbai,Lower Parel,Auto,12744,1,271,54,High
+2025-01-30,Mumbai,Dadar,Bus,4603,7,178,60,Low
+2025-01-31,Thane,Kasarvadavali,Car,5112,3,259,56,Low
+2025-02-01,Nagpur,Sitabuldi,Auto,7972,2,85,30,Medium
+2025-02-02,Pune,Viman Nagar,Bus,11337,2,148,49,High
+2025-02-03,Nashik,Indira Nagar,Truck,4417,0,145,29,Low
+2025-02-04,Nashik,Mumbai Naka,Bus,8917,6,54,58,Medium
+2025-02-05,Thane,Kasarvadavali,Bike,13666,2,267,46,High
+2025-02-06,Nashik,Indira Nagar,Bike,7775,6,198,30,Medium
+2025-02-07,Nagpur,Pratap Nagar,Bus,9246,2,43,37,Medium
+2025-02-08,Mumbai,Lower Parel,Bus,8762,1,79,25,Medium
+2025-02-09,Nashik,College Road,Car,11575,3,102,55,High
+2025-02-10,Nagpur,Sadar,Truck,7993,6,286,59,Medium
+2025-02-11,Nashik,Indira Nagar,Car,4579,7,65,31,Low
+2025-02-12,Nagpur,Pratap Nagar,Car,4292,6,63,28,Low
+2025-02-13,Thane,Ghodbunder,Car,11696,1,262,47,High
+2025-02-14,Mumbai,Bandra,Truck,7423,4,220,31,Medium
+2025-02-15,Nashik,College Road,Auto,7959,4,55,26,Medium
+2025-02-16,Nashik,College Road,Bike,11689,0,206,34,High
+2025-02-17,Pune,Hinjewadi,Auto,9909,4,180,52,Medium
+2025-02-18,Pune,Wakad,Bus,6017,5,199,37,Low
+2025-02-19,Nagpur,Dharampeth,Bus,12328,8,107,46,High
+2025-02-20,Nashik,Mumbai Naka,Bus,14403,8,181,20,High
+2025-02-21,Nagpur,Trimurti Nagar,Truck,4168,1,163,48,Low
+2025-02-22,Nashik,Gangapur Road,Truck,13024,2,236,29,High
+2025-02-23,Thane,Ghodbunder,Truck,4672,7,202,20,Low
+2025-02-24,Pune,Shivaji Nagar,Bus,5806,7,120,40,Low
+2025-02-25,Nashik,Mumbai Naka,Car,6774,4,60,32,Low
+2025-02-26,Mumbai,Bandra,Car,7874,4,121,29,Medium
+2025-02-27,Mumbai,Bandra,Bus,4610,7,154,57,Low
+2025-02-28,Nagpur,Pratap Nagar,Auto,10554,5,60,31,Medium
+2025-03-01,Nagpur,Sitabuldi,Car,4116,2,297,41,Low
+2025-03-02,Pune,Shivaji Nagar,Car,13677,2,67,31,High
+2025-03-03,Mumbai,Malad,Truck,6127,6,146,58,Low
+2025-03-04,Nagpur,Pratap Nagar,Bike,10645,8,274,43,Medium
+2025-03-05,Pune,Shivaji Nagar,Bus,7864,2,64,40,Medium
+2025-03-06,Thane,Kasarvadavali,Truck,14155,3,104,22,High
+2025-03-07,Thane,Majiwada,Bike,6359,1,100,37,Low
+2025-03-08,Thane,Wagle Estate,Car,8962,8,275,57,Medium
+2025-03-09,Thane,Majiwada,Truck,6108,7,206,21,Low
+2025-03-10,Nagpur,Sitabuldi,Auto,9896,1,254,35,Medium
+2025-03-11,Nashik,College Road,Truck,10379,8,137,24,Medium
+2025-03-12,Mumbai,Malad,Truck,6550,7,50,53,Low
+2025-03-13,Pune,Wakad,Car,12113,2,104,33,High
+2025-03-14,Nashik,Indira Nagar,Bus,10897,3,187,56,Medium
+2025-03-15,Pune,Wakad,Bike,7352,2,269,44,Medium
+2025-03-16,Pune,Hinjewadi,Bus,10491,2,75,28,Medium
+2025-03-17,Nashik,College Road,Truck,10156,1,200,34,Medium
+2025-03-18,Mumbai,Dadar,Truck,11552,7,295,32,High
+2025-03-19,Mumbai,Bandra,Auto,11460,2,169,56,High
+2025-03-20,Nashik,Indira Nagar,Truck,5414,5,261,36,Low
+2025-03-21,Mumbai,Malad,Bus,6731,3,131,49,Low
+2025-03-22,Thane,Majiwada,Truck,14630,6,233,45,High
+2025-03-23,Mumbai,Bandra,Car,12300,5,292,34,High
+2025-03-24,Thane,Ghodbunder,Bike,6318,3,103,31,Low
+2025-03-25,Nagpur,Dharampeth,Auto,5732,3,66,27,Low
+2025-03-26,Mumbai,Lower Parel,Auto,7796,8,291,21,Medium
+2025-03-27,Pune,Hinjewadi,Auto,9890,3,57,35,Medium
+2025-03-28,Pune,Kothrud,Bus,5098,6,253,53,Low
+2025-03-29,Thane,Majiwada,Auto,4742,0,180,60,Low
+2025-03-30,Nashik,College Road,Bike,14094,2,110,28,High
+2025-03-31,Thane,Kasarvadavali,Truck,10006,7,130,23,Medium
+2025-04-01,Nashik,Gangapur Road,Truck,9063,0,207,33,Medium
+2025-04-02,Mumbai,Bandra,Bus,9130,5,272,59,Medium
+2025-04-03,Pune,Wakad,Auto,10085,1,114,60,Medium
+2025-04-04,Nashik,College Road,Bike,10654,0,189,32,Medium
+2025-04-05,Mumbai,Bandra,Truck,11431,4,187,26,High
+2025-04-06,Pune,Wakad,Auto,5357,6,274,26,Low
+2025-04-07,Mumbai,Bandra,Car,10807,5,62,30,Medium
+2025-04-08,Nagpur,Sitabuldi,Auto,8130,7,141,59,Medium
+2025-04-09,Pune,Wakad,Bus,4399,6,155,52,Low
+2025-04-10,Nagpur,Trimurti Nagar,Car,9020,5,244,39,Medium
+2025-04-11,Nagpur,Sadar,Bike,12947,2,94,41,High
+2025-04-12,Nashik,Gangapur Road,Auto,7520,2,96,35,Medium
+2025-04-13,Nagpur,Trimurti Nagar,Car,6572,6,198,52,Low
+2025-04-14,Mumbai,Bandra,Bus,11893,4,210,55,High
+2025-04-15,Nashik,College Road,Truck,14970,8,119,23,High
+2025-04-16,Nashik,Mumbai Naka,Car,14912,8,232,56,High
+2025-04-17,Pune,Kothrud,Bus,13533,5,96,37,High
+2025-04-18,Pune,Shivaji Nagar,Bus,14204,6,225,26,High
+2025-04-19,Nashik,Panchavati,Truck,8559,8,268,56,Medium
+2025-04-20,Mumbai,Andheri,Bike,10915,5,123,48,Medium
+2025-04-21,Pune,Shivaji Nagar,Bus,4713,1,130,21,Low
+2025-04-22,Thane,Manpada,Bike,9505,2,247,20,Medium
+2025-04-23,Nagpur,Dharampeth,Bike,10163,6,73,37,Medium
+2025-04-24,Nashik,Mumbai Naka,Auto,14766,0,206,41,High
+2025-04-25,Pune,Wakad,Truck,4828,4,237,34,Low
+2025-04-26,Thane,Majiwada,Car,4861,1,209,20,Low
+2025-04-27,Thane,Manpada,Auto,12846,2,198,48,High
+2025-04-28,Nagpur,Sitabuldi,Bus,4566,2,208,53,Low
+2025-04-29,Nashik,Indira Nagar,Car,8929,8,269,60,Medium
+2025-04-30,Thane,Wagle Estate,Bus,13689,2,62,39,High
+2025-05-01,Pune,Wakad,Truck,14979,1,134,58,High
+2025-05-02,Pune,Viman Nagar,Auto,8888,2,245,57,Medium
+2025-05-03,Mumbai,Malad,Bus,14391,5,214,32,High
+2025-05-04,Mumbai,Malad,Bus,9131,4,206,53,Medium
+2025-05-05,Nagpur,Trimurti Nagar,Auto,5131,2,45,48,Low
+2025-05-06,Mumbai,Bandra,Truck,9417,0,296,44,Medium
+2025-05-07,Mumbai,Bandra,Truck,6622,0,115,54,Low
+2025-05-08,Thane,Kasarvadavali,Bike,12790,2,53,48,High
+2025-05-09,Nagpur,Pratap Nagar,Truck,6233,1,233,43,Low
+2025-05-10,Pune,Viman Nagar,Bus,10114,4,55,38,Medium
+2025-05-11,Nagpur,Dharampeth,Truck,5897,0,68,31,Low
+2025-05-12,Thane,Majiwada,Bus,9467,3,167,55,Medium
+2025-05-13,Thane,Wagle Estate,Truck,13275,0,295,56,High
+2025-05-14,Thane,Ghodbunder,Bike,11358,5,287,51,High
+2025-05-15,Nashik,Indira Nagar,Bike,6537,5,288,34,Low
+2025-05-16,Thane,Ghodbunder,Car,7931,5,204,55,Medium
+2025-05-17,Thane,Wagle Estate,Truck,13568,2,235,30,High
+2025-05-18,Thane,Manpada,Car,5799,2,274,28,Low
+2025-05-19,Thane,Manpada,Bus,12430,7,189,53,High
+2025-05-20,Mumbai,Malad,Bike,9658,2,262,21,Medium
+2025-05-21,Nagpur,Trimurti Nagar,Auto,4427,6,127,27,Low
+2025-05-22,Thane,Manpada,Bus,10378,2,160,25,Medium
+2025-05-23,Nashik,Panchavati,Bus,13737,0,74,46,High
+2025-05-24,Thane,Manpada,Bike,8136,6,118,39,Medium
+2025-05-25,Mumbai,Dadar,Car,8516,3,272,28,Medium
+2025-05-26,Nagpur,Trimurti Nagar,Truck,11360,1,123,35,High
+2025-05-27,Nashik,Gangapur Road,Truck,11934,1,264,53,High
+2025-05-28,Pune,Wakad,Auto,12145,3,79,47,High
+2025-05-29,Nagpur,Dharampeth,Bus,11483,7,91,44,High
+2025-05-30,Pune,Kothrud,Truck,11684,6,263,42,High
+2025-05-31,Thane,Wagle Estate,Bike,4615,1,115,55,Low
+2025-06-01,Thane,Majiwada,Car,7102,0,289,38,Medium
+2025-06-02,Mumbai,Dadar,Car,14348,0,192,57,High
+2025-06-03,Nagpur,Sitabuldi,Bus,7051,4,89,31,Medium
+2025-06-04,Thane,Ghodbunder,Truck,12917,2,79,26,High
+2025-06-05,Pune,Shivaji Nagar,Truck,11491,1,54,49,High
+2025-06-06,Nagpur,Sitabuldi,Car,7844,6,211,59,Medium
+2025-06-07,Pune,Kothrud,Bus,14432,1,81,27,High
+2025-06-08,Mumbai,Bandra,Truck,12243,6,284,53,High
+2025-06-09,Mumbai,Malad,Car,14448,6,125,53,High
+2025-06-10,Mumbai,Andheri,Bus,8812,0,120,31,Medium
+2025-06-11,Thane,Manpada,Bus,14839,5,173,49,High
+2025-06-12,Pune,Kothrud,Auto,9318,4,252,25,Medium
+2025-06-13,Pune,Shivaji Nagar,Truck,13781,5,45,50,High
+2025-06-14,Thane,Wagle Estate,Bus,13014,6,124,45,High
+2025-06-15,Mumbai,Malad,Auto,7674,7,121,31,Medium
+2025-06-16,Pune,Shivaji Nagar,Bus,11691,1,296,46,High
+2025-06-17,Mumbai,Malad,Car,13557,5,75,34,High
+2025-06-18,Nagpur,Sadar,Bus,9419,2,82,36,Medium
+2025-06-19,Pune,Hinjewadi,Auto,4123,3,152,60,Low
+2025-06-20,Thane,Wagle Estate,Car,9506,0,201,24,Medium
+2025-06-21,Nagpur,Dharampeth,Truck,7319,6,182,47,Medium
+2025-06-22,Nashik,Mumbai Naka,Truck,9921,2,241,44,Medium
+2025-06-23,Nagpur,Sitabuldi,Auto,5693,7,173,44,Low
+2025-06-24,Thane,Kasarvadavali,Truck,5539,8,248,29,Low
+2025-06-25,Thane,Manpada,Bus,6631,7,48,38,Low
+2025-06-26,Nashik,Mumbai Naka,Car,12469,3,66,60,High
+2025-06-27,Nagpur,Pratap Nagar,Auto,6700,4,94,37,Low
+2025-06-28,Nashik,Panchavati,Bus,7463,3,98,56,Medium
+2025-06-29,Nashik,Mumbai Naka,Truck,14198,1,131,43,High
+2025-06-30,Mumbai,Dadar,Bike,11301,3,128,31,High
+2025-07-01,Thane,Kasarvadavali,Bike,10612,5,255,32,Medium
+2025-07-02,Nashik,College Road,Bike,13399,8,173,52,High
+2025-07-03,Nashik,Panchavati,Auto,9030,6,213,27,Medium
+2025-07-04,Mumbai,Bandra,Bus,4042,4,67,30,Low
+2025-07-05,Pune,Viman Nagar,Car,6736,4,169,58,Low
+2025-07-06,Pune,Shivaji Nagar,Bike,10058,8,239,25,Medium
+2025-07-07,Pune,Wakad,Car,5604,3,109,52,Low
+2025-07-08,Mumbai,Andheri,Auto,9010,4,275,58,Medium
+2025-07-09,Thane,Manpada,Truck,8715,6,111,50,Medium
+2025-07-10,Mumbai,Bandra,Bike,6385,2,146,39,Low
+2025-07-11,Nagpur,Sitabuldi,Auto,4482,8,218,49,Low
+2025-07-12,Pune,Hinjewadi,Auto,12299,0,163,49,High
+2025-07-13,Thane,Wagle Estate,Truck,8425,1,189,31,Medium
+2025-07-14,Pune,Shivaji Nagar,Truck,12602,1,179,30,High
+2025-07-15,Mumbai,Bandra,Bike,6978,6,135,27,Low
+2025-07-16,Mumbai,Andheri,Car,13526,5,232,35,High
+2025-07-17,Thane,Manpada,Auto,10517,1,80,34,Medium
+2025-07-18,Thane,Ghodbunder,Car,13685,5,297,58,High
+2025-07-19,Nashik,Gangapur Road,Truck,7161,0,184,53,Medium
+2025-07-20,Thane,Wagle Estate,Bus,8128,5,289,26,Medium
+2025-07-21,Nagpur,Dharampeth,Truck,4860,1,123,39,Low
+2025-07-22,Thane,Kasarvadavali,Bus,12399,1,262,58,High
+2025-07-23,Nagpur,Dharampeth,Auto,11631,5,83,32,High
+2025-07-24,Mumbai,Malad,Car,8868,7,205,39,Medium
+2025-07-25,Nagpur,Trimurti Nagar,Bus,10677,7,168,28,Medium
+2025-07-26,Nagpur,Dharampeth,Car,7610,5,290,45,Medium
+2025-07-27,Nashik,Mumbai Naka,Bus,9392,6,252,38,Medium
+2025-07-28,Mumbai,Malad,Truck,13101,4,106,37,High
+2025-07-29,Nashik,Gangapur Road,Bus,14506,8,135,39,High
+2025-07-30,Pune,Wakad,Truck,7424,4,232,33,Medium
+2025-07-31,Nagpur,Pratap Nagar,Truck,8854,8,259,37,Medium
+2025-08-01,Pune,Shivaji Nagar,Auto,4636,8,83,23,Low
+2025-08-02,Nashik,College Road,Car,8598,7,136,52,Medium
+2025-08-03,Nagpur,Sadar,Car,6991,4,223,58,Low
+2025-08-04,Pune,Kothrud,Bike,14104,8,115,50,High
+2025-08-05,Nagpur,Pratap Nagar,Truck,5324,3,80,35,Low
+2025-08-06,Nashik,Gangapur Road,Car,10062,6,66,49,Medium
+2025-08-07,Thane,Manpada,Auto,10999,2,219,48,Medium
+2025-08-08,Pune,Viman Nagar,Auto,11851,0,51,34,High
+2025-08-09,Thane,Ghodbunder,Auto,12394,7,248,54,High
+2025-08-10,Nagpur,Pratap Nagar,Auto,13371,3,251,59,High
+2025-08-11,Thane,Kasarvadavali,Car,10868,0,116,35,Medium
+2025-08-12,Thane,Ghodbunder,Bus,12360,8,285,41,High
+2025-08-13,Thane,Wagle Estate,Bike,12330,7,268,40,High
+2025-08-14,Pune,Viman Nagar,Bus,10942,8,158,56,Medium
+2025-08-15,Mumbai,Malad,Bike,10053,0,172,46,Medium
+2025-08-16,Nagpur,Trimurti Nagar,Truck,11611,0,270,23,High
+2025-08-17,Nashik,Panchavati,Car,10096,4,58,20,Medium
+2025-08-18,Nashik,Gangapur Road,Bus,10388,2,170,33,Medium
+2025-08-19,Mumbai,Bandra,Bike,9932,8,231,46,Medium
+2025-08-20,Nagpur,Trimurti Nagar,Bike,10642,3,253,31,Medium
+2025-08-21,Thane,Ghodbunder,Car,5000,7,297,20,Low
+2025-08-22,Thane,Ghodbunder,Truck,11371,6,132,38,High
+2025-08-23,Nagpur,Sadar,Truck,7825,7,166,20,Medium
+2025-08-24,Mumbai,Andheri,Car,13082,0,198,32,High
+2025-08-25,Thane,Wagle Estate,Car,10520,6,65,29,Medium
+2025-08-26,Mumbai,Dadar,Bike,11370,1,40,27,High
+2025-08-27,Mumbai,Andheri,Car,6819,5,231,26,Low
+2025-08-28,Thane,Manpada,Bus,12751,4,136,32,High
+2025-08-29,Nashik,Indira Nagar,Car,11180,6,168,34,High
+2025-08-30,Mumbai,Andheri,Truck,5355,0,115,44,Low
+2025-08-31,Nashik,Indira Nagar,Bus,12843,1,115,21,High
+2025-09-01,Nashik,College Road,Bus,14124,4,203,25,High
+2025-09-02,Mumbai,Lower Parel,Auto,13768,8,118,39,High
+2025-09-03,Nagpur,Sadar,Bike,11964,0,243,29,High
+2025-09-04,Nashik,Mumbai Naka,Truck,14175,0,55,56,High
+2025-09-05,Pune,Wakad,Bike,14115,6,94,26,High
+2025-09-06,Nashik,College Road,Bike,10342,5,143,46,Medium
+2025-09-07,Nashik,College Road,Car,14015,7,215,44,High
+2025-09-08,Nagpur,Dharampeth,Bike,13854,4,90,59,High
+2025-09-09,Thane,Majiwada,Car,6143,6,197,31,Low
+2025-09-10,Nagpur,Trimurti Nagar,Auto,7308,7,213,39,Medium
+2025-09-11,Pune,Shivaji Nagar,Car,11222,8,151,23,High
+2025-09-12,Nashik,Gangapur Road,Auto,14310,1,80,29,High
+2025-09-13,Nagpur,Dharampeth,Bus,12607,6,256,31,High
+2025-09-14,Mumbai,Dadar,Auto,8982,4,167,44,Medium
+2025-09-15,Mumbai,Malad,Truck,11681,0,202,30,High
+2025-09-16,Mumbai,Andheri,Auto,11967,5,199,41,High
+2025-09-17,Mumbai,Dadar,Bike,5811,2,141,30,Low
+2025-09-18,Thane,Manpada,Auto,9208,3,106,53,Medium
+2025-09-19,Nashik,Panchavati,Auto,4629,7,141,54,Low
+2025-09-20,Pune,Wakad,Bike,4384,3,160,48,Low
+2025-09-21,Thane,Kasarvadavali,Truck,11885,8,215,58,High
+2025-09-22,Nashik,Mumbai Naka,Bus,10321,8,299,43,Medium
+2025-09-23,Nashik,College Road,Truck,4814,5,204,47,Low
+2025-09-24,Thane,Kasarvadavali,Auto,13938,2,150,27,High
+2025-09-25,Thane,Wagle Estate,Truck,13832,1,87,41,High
+2025-09-26,Nashik,Gangapur Road,Bike,8128,3,105,41,Medium
+2025-09-27,Nagpur,Sitabuldi,Truck,10887,2,166,48,Medium
+2025-09-28,Nagpur,Dharampeth,Car,5514,4,204,49,Low
+2025-09-29,Thane,Ghodbunder,Truck,11906,4,128,39,High
+2025-09-30,Nashik,College Road,Bus,10189,6,110,60,Medium
+2025-10-01,Nagpur,Sadar,Car,14635,7,112,22,High
+2025-10-02,Pune,Shivaji Nagar,Truck,13761,3,79,46,High
+2025-10-03,Thane,Majiwada,Bus,10651,0,90,54,Medium
+2025-10-04,Nashik,Mumbai Naka,Truck,5635,0,180,54,Low
+2025-10-05,Mumbai,Malad,Auto,12874,0,181,55,High
+2025-10-06,Thane,Majiwada,Auto,7136,7,237,41,Medium
+2025-10-07,Nagpur,Sadar,Bike,13324,8,154,20,High
+2025-10-08,Pune,Kothrud,Bus,9262,0,73,36,Medium
+2025-10-09,Nashik,Mumbai Naka,Truck,10292,8,55,40,Medium
+2025-10-10,Nashik,Panchavati,Auto,14255,6,146,42,High
+2025-10-11,Thane,Kasarvadavali,Bike,14517,0,297,42,High
+2025-10-12,Pune,Viman Nagar,Auto,5033,3,62,26,Low
+2025-10-13,Pune,Kothrud,Car,14486,6,165,20,High
+2025-10-14,Thane,Wagle Estate,Truck,13049,6,196,38,High
+2025-10-15,Nashik,Gangapur Road,Bike,13045,6,224,20,High
+2025-10-16,Pune,Viman Nagar,Truck,10163,8,64,58,Medium
+2025-10-17,Nagpur,Pratap Nagar,Bus,9701,3,182,32,Medium
+2025-10-18,Nagpur,Trimurti Nagar,Bus,5437,5,158,40,Low
+2025-10-19,Mumbai,Lower Parel,Auto,10109,3,214,46,Medium
+2025-10-20,Pune,Wakad,Bus,11867,6,132,22,High
+2025-10-21,Nagpur,Sitabuldi,Truck,13218,4,184,37,High
+2025-10-22,Nagpur,Dharampeth,Car,11960,6,250,57,High
+2025-10-23,Pune,Viman Nagar,Auto,12818,3,139,49,High
+2025-10-24,Nagpur,Trimurti Nagar,Bus,11346,1,115,46,High
+2025-10-25,Thane,Wagle Estate,Car,9298,5,182,31,Medium
+2025-10-26,Thane,Manpada,Auto,4874,2,58,32,Low
+2025-10-27,Nashik,Mumbai Naka,Bus,12957,6,271,30,High
+2025-10-28,Nashik,Mumbai Naka,Car,14577,4,114,29,High
+2025-10-29,Thane,Majiwada,Truck,11886,5,68,36,High
+2025-10-30,Nashik,Gangapur Road,Car,10337,4,281,43,Medium
+2025-10-31,Pune,Shivaji Nagar,Bike,6229,8,61,35,Low
+2025-11-01,Thane,Manpada,Truck,4847,8,134,52,Low
+2025-11-02,Nagpur,Sitabuldi,Car,10587,2,229,24,Medium
+2025-11-03,Nashik,Indira Nagar,Auto,14568,8,61,44,High
+2025-11-04,Mumbai,Dadar,Truck,10047,7,275,54,Medium
+2025-11-05,Mumbai,Bandra,Auto,12343,1,298,41,High
+2025-11-06,Pune,Hinjewadi,Auto,10449,3,214,24,Medium
+2025-11-07,Nagpur,Sadar,Bus,10170,5,113,53,Medium
+2025-11-08,Pune,Hinjewadi,Bike,5094,4,265,22,Low
+2025-11-09,Nashik,Indira Nagar,Car,11768,1,82,23,High
+2025-11-10,Nashik,Panchavati,Bike,4299,1,114,33,Low
+2025-11-11,Nashik,Panchavati,Auto,14442,7,180,60,High
+2025-11-12,Mumbai,Lower Parel,Bike,12605,0,168,42,High
+2025-11-13,Thane,Kasarvadavali,Auto,11426,7,88,39,High
+2025-11-14,Thane,Manpada,Truck,10611,6,207,42,Medium
+2025-11-15,Mumbai,Bandra,Car,10303,2,218,44,Medium
+2025-11-16,Nagpur,Trimurti Nagar,Bus,7443,8,288,54,Medium
+2025-11-17,Thane,Wagle Estate,Auto,14128,7,200,34,High
+2025-11-18,Pune,Hinjewadi,Car,7469,6,200,35,Medium
+2025-11-19,Nashik,Panchavati,Bus,14194,5,51,60,High
+2025-11-20,Nagpur,Pratap Nagar,Auto,6329,8,51,48,Low
+2025-11-21,Pune,Hinjewadi,Bus,8340,0,113,31,Medium
+2025-11-22,Nashik,Mumbai Naka,Car,11852,8,42,35,High
+2025-11-23,Thane,Wagle Estate,Bike,14835,6,296,29,High
+2025-11-24,Thane,Wagle Estate,Auto,14291,7,153,25,High
+2025-11-25,Nashik,Gangapur Road,Car,9433,8,216,52,Medium
+2025-11-26,Pune,Kothrud,Auto,13558,2,90,42,High
+2025-11-27,Nagpur,Trimurti Nagar,Bike,14850,7,80,51,High
+2025-11-28,Pune,Hinjewadi,Car,4156,5,175,46,Low
+2025-11-29,Mumbai,Bandra,Bus,11633,6,57,30,High
+2025-11-30,Pune,Shivaji Nagar,Bus,11659,8,150,51,High
+2025-12-01,Thane,Wagle Estate,Bike,10999,5,162,31,Medium
+2025-12-02,Mumbai,Andheri,Car,7925,1,288,59,Medium
+2025-12-03,Mumbai,Lower Parel,Auto,14873,3,283,49,High
+2025-12-04,Pune,Shivaji Nagar,Bike,9240,4,243,39,Medium
+2025-12-05,Pune,Wakad,Auto,13125,7,260,23,High
+2025-12-06,Pune,Hinjewadi,Bike,14993,0,89,52,High
+2025-12-07,Thane,Ghodbunder,Bike,12101,7,208,43,High
+2025-12-08,Mumbai,Andheri,Truck,7683,7,244,42,Medium
+2025-12-09,Pune,Wakad,Bus,13846,8,88,26,High
+2025-12-10,Thane,Manpada,Car,14912,4,63,34,High
+2025-12-11,Pune,Wakad,Bus,7265,3,68,42,Medium
+2025-12-12,Mumbai,Bandra,Auto,14134,3,225,39,High
+2025-12-13,Mumbai,Andheri,Auto,10604,2,197,53,Medium
+2025-12-14,Nagpur,Trimurti Nagar,Auto,8920,6,174,26,Medium
+2025-12-15,Mumbai,Malad,Truck,7494,6,141,42,Medium
+2025-12-16,Mumbai,Dadar,Bike,13603,2,115,43,High
+2025-12-17,Pune,Shivaji Nagar,Auto,10349,0,175,26,Medium
+2025-12-18,Pune,Hinjewadi,Truck,13572,6,243,40,High
+2025-12-19,Mumbai,Dadar,Bike,12007,4,173,54,High
+2025-12-20,Mumbai,Bandra,Bus,7635,3,278,31,Medium
+2025-12-21,Nashik,Indira Nagar,Auto,4616,6,89,60,Low
+2025-12-22,Nagpur,Pratap Nagar,Truck,4468,3,283,46,Low
+2025-12-23,Mumbai,Lower Parel,Bus,12515,1,265,54,High
+2025-12-24,Pune,Hinjewadi,Car,4184,6,211,49,Low
+2025-12-25,Nashik,Panchavati,Car,6293,5,78,31,Low
+2025-12-26,Nashik,Gangapur Road,Truck,9804,7,256,42,Medium
+2025-12-27,Nashik,Gangapur Road,Auto,6131,6,196,60,Low
+2025-12-28,Nagpur,Pratap Nagar,Bike,13824,4,191,56,High
+2025-12-29,Mumbai,Andheri,Car,11047,1,266,41,High
+2025-12-30,Mumbai,Dadar,Car,12796,6,146,48,High
+2025-12-31,Nagpur,Pratap Nagar,Auto,10479,5,97,29,Medium
+2025-01-01,Thane,Manpada,Truck,9849,5,109,44,Medium
+2025-01-02,Pune,Viman Nagar,Car,13555,2,211,43,High
+2025-01-03,Mumbai,Malad,Bus,13919,3,89,46,High
+2025-01-04,Pune,Wakad,Car,6355,3,108,49,Low
+2025-01-05,Nashik,Indira Nagar,Auto,6768,3,209,23,Low
+2025-01-06,Pune,Wakad,Car,5906,4,110,58,Low
+2025-01-07,Nashik,Gangapur Road,Bus,9462,0,97,27,Medium
+2025-01-08,Thane,Ghodbunder,Bus,12905,2,231,56,High
+2025-01-09,Nagpur,Trimurti Nagar,Truck,11965,4,171,26,High
+2025-01-10,Mumbai,Malad,Bike,11890,5,289,30,High
+2025-01-11,Pune,Viman Nagar,Bike,7471,3,211,29,Medium
+2025-01-12,Pune,Shivaji Nagar,Bus,5855,3,180,54,Low
+2025-01-13,Pune,Wakad,Bike,8114,2,136,40,Medium
+2025-01-14,Thane,Manpada,Auto,14944,3,122,60,High
+2025-01-15,Nagpur,Sitabuldi,Truck,11876,5,108,26,High
+2025-01-16,Nagpur,Dharampeth,Auto,8764,7,110,53,Medium
+2025-01-17,Pune,Hinjewadi,Truck,10420,0,152,21,Medium
+2025-01-18,Nashik,College Road,Truck,10168,5,180,57,Medium
+2025-01-19,Nagpur,Sadar,Bike,14170,5,174,49,High
+2025-01-20,Nashik,Indira Nagar,Car,12745,2,119,27,High
+2025-01-21,Mumbai,Andheri,Truck,10631,8,145,25,Medium
+2025-01-22,Pune,Viman Nagar,Auto,6801,1,84,46,Low
+2025-01-23,Pune,Shivaji Nagar,Truck,14394,0,228,40,High
+2025-01-24,Nashik,College Road,Auto,7599,8,102,29,Medium
+2025-01-25,Nagpur,Sitabuldi,Bus,6801,8,162,41,Low
+2025-01-26,Mumbai,Malad,Bus,12271,0,295,43,High
+2025-01-27,Thane,Wagle Estate,Bike,10706,1,58,46,Medium
+2025-01-28,Mumbai,Dadar,Bike,9151,1,176,48,Medium
+2025-01-29,Nagpur,Sadar,Car,7708,2,153,24,Medium
+2025-01-30,Thane,Ghodbunder,Car,13809,8,229,55,High
+2025-01-31,Thane,Ghodbunder,Car,5063,0,81,31,Low
+2025-02-01,Thane,Kasarvadavali,Truck,9669,2,196,27,Medium
+2025-02-02,Pune,Hinjewadi,Bike,11363,4,238,27,High
+2025-02-03,Nagpur,Trimurti Nagar,Truck,10796,4,297,26,Medium
+2025-02-04,Pune,Wakad,Car,14130,1,271,30,High
+2025-02-05,Nashik,Mumbai Naka,Bus,11769,6,101,51,High
+2025-02-06,Thane,Ghodbunder,Car,11052,5,222,55,High
+2025-02-07,Thane,Wagle Estate,Car,10890,1,54,40,Medium
+2025-02-08,Nagpur,Pratap Nagar,Car,14357,3,279,53,High
+2025-02-09,Pune,Viman Nagar,Auto,12004,0,97,21,High
+2025-02-10,Nagpur,Trimurti Nagar,Auto,4880,2,250,52,Low
+2025-02-11,Pune,Hinjewadi,Auto,11137,7,236,33,High
+2025-02-12,Thane,Manpada,Auto,6027,6,71,52,Low
+2025-02-13,Mumbai,Andheri,Bike,4881,1,42,42,Low
+2025-02-14,Nagpur,Sadar,Truck,8051,1,100,36,Medium
+2025-02-15,Mumbai,Malad,Bike,5101,7,42,59,Low
+2025-02-16,Thane,Kasarvadavali,Bus,11411,7,41,42,High
+2025-02-17,Nashik,Indira Nagar,Auto,8855,6,121,33,Medium
+2025-02-18,Nashik,Panchavati,Truck,6128,4,135,44,Low
+2025-02-19,Nagpur,Sadar,Truck,7252,6,168,40,Medium
+2025-02-20,Nagpur,Pratap Nagar,Car,9368,1,204,20,Medium
+2025-02-21,Pune,Wakad,Car,6883,4,235,45,Low
+2025-02-22,Thane,Kasarvadavali,Bike,6469,2,90,31,Low
+2025-02-23,Pune,Shivaji Nagar,Auto,9074,1,233,27,Medium
+2025-02-24,Pune,Shivaji Nagar,Bus,14721,4,102,56,High
+2025-02-25,Mumbai,Lower Parel,Auto,12575,8,48,43,High
+2025-02-26,Mumbai,Lower Parel,Auto,4775,4,178,30,Low
+2025-02-27,Mumbai,Bandra,Auto,12537,4,276,24,High
+2025-02-28,Pune,Viman Nagar,Truck,7692,7,205,59,Medium
+2025-03-01,Pune,Wakad,Bike,13224,2,138,27,High
+2025-03-02,Nashik,Mumbai Naka,Bus,10546,5,279,54,Medium
+2025-03-03,Pune,Viman Nagar,Truck,5655,0,134,42,Low
+2025-03-04,Nagpur,Dharampeth,Car,13717,8,102,49,High
+2025-03-05,Nashik,College Road,Auto,13159,8,123,39,High
+2025-03-06,Nagpur,Pratap Nagar,Bus,14174,6,74,47,High
+2025-03-07,Nashik,Mumbai Naka,Bike,5466,2,287,57,Low
+2025-03-08,Mumbai,Dadar,Auto,7157,1,139,38,Medium
+2025-03-09,Thane,Kasarvadavali,Bus,5114,7,52,25,Low
+2025-03-10,Thane,Manpada,Bus,10455,5,54,55,Medium
+2025-03-11,Nashik,College Road,Car,14130,8,179,35,High
+2025-03-12,Thane,Ghodbunder,Auto,13822,6,242,34,High
+2025-03-13,Mumbai,Bandra,Truck,11372,2,113,45,High
+2025-03-14,Thane,Ghodbunder,Car,5000,4,208,20,Low
+2025-03-15,Nashik,Indira Nagar,Car,11959,6,61,49,High
+2025-03-16,Pune,Viman Nagar,Bike,8331,5,231,49,Medium
+2025-03-17,Nashik,College Road,Bus,13022,4,178,45,High
+2025-03-18,Nagpur,Sadar,Bike,12077,5,77,33,High
+2025-03-19,Thane,Wagle Estate,Car,8075,3,241,46,Medium
+2025-03-20,Thane,Wagle Estate,Truck,13036,6,291,47,High
+2025-03-21,Pune,Kothrud,Truck,13225,3,262,37,High
+2025-03-22,Nagpur,Sadar,Car,13606,8,181,48,High
+2025-03-23,Pune,Hinjewadi,Bike,9010,0,189,38,Medium
+2025-03-24,Thane,Ghodbunder,Bus,14089,3,285,24,High
+2025-03-25,Nashik,Mumbai Naka,Bus,14190,3,113,40,High
+2025-03-26,Nashik,Indira Nagar,Car,13421,1,272,29,High
+2025-03-27,Thane,Majiwada,Bike,9988,0,182,56,Medium
+2025-03-28,Nagpur,Trimurti Nagar,Bus,10923,2,156,55,Medium
+2025-03-29,Mumbai,Dadar,Bike,9720,2,57,53,Medium
+2025-03-30,Nashik,Indira Nagar,Bus,10632,6,203,40,Medium
+2025-03-31,Nashik,Gangapur Road,Truck,6176,5,208,30,Low
+2025-04-01,Nagpur,Dharampeth,Car,8728,5,77,54,Medium
+2025-04-02,Nashik,College Road,Car,5217,5,226,30,Low
+2025-04-03,Nashik,Mumbai Naka,Bike,6013,2,270,55,Low
+2025-04-04,Thane,Ghodbunder,Bike,10166,5,110,59,Medium
+2025-04-05,Mumbai,Bandra,Truck,6167,5,143,28,Low
+2025-04-06,Thane,Kasarvadavali,Auto,14591,0,110,28,High
+2025-04-07,Nagpur,Trimurti Nagar,Bus,14276,1,172,57,High
+2025-04-08,Thane,Wagle Estate,Truck,12940,4,85,34,High
+2025-04-09,Nagpur,Sadar,Car,6114,2,86,27,Low
+2025-04-10,Nashik,College Road,Truck,6617,0,138,58,Low
+2025-04-11,Nagpur,Dharampeth,Bus,12825,4,281,43,High
+2025-04-12,Thane,Manpada,Truck,14648,8,184,43,High
+2025-04-13,Pune,Hinjewadi,Car,8221,3,64,48,Medium
+2025-04-14,Nagpur,Sadar,Bus,11618,4,207,41,High
+2025-04-15,Mumbai,Bandra,Bus,7543,8,223,26,Medium
